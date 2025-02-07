@@ -5,9 +5,88 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout>
-	<div class="flex h-screen">
-		<div class="m-auto">
-			<h1 class="text-xl">Flashcards</h1>
+	<div
+		class="mt-20 grid grid-rows-3 grid-cols-1 gap-15 mx-20 lg:grid-rows-1 lg:grid-cols-3"
+	>
+		<div class="my-4 grid grid-cols-1 gap-y-4 border-2 rounded-lg p-4">
+			<h2 class="text-xl text-[#d15635]">Data & Cloud Solutions</h2>
+
+			<div>
+				<h3 class="font-bold">Core Data Workloads</h3>
+				<p>Next-gen Data Architecture</p>
+				<p>Data Migrations</p>
+				<p>Data Warehousing & Data Mesh</p>
+				<p>Data Engineering</p>
+				<p>DataOps</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">Cloud Architecture</h3>
+				<p>Platform Architecture</p>
+				<p>Infrastructure Scaling and Automation</p>
+				<p>Network & InfoSec</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">Cloud Solutions</h3>
+				<p>API Modernization</p>
+				<p>Integration Modernization</p>
+			</div>
+		</div>
+
+		<div class="my-4 grid grid-cols-1 gap-y-4 border-2 rounded-lg p-4">
+			<h2 class="text-xl text-[#d15635]">
+				Cortex AI & Product Innovation
+			</h2>
+
+			<div>
+				<h3 class="font-bold">Artificial Intelligence</h3>
+				<p>Snowflake Intelligence & Data Agents</p>
+				<p>Intelligent Document Processing</p>
+				<p>Conversational Data Apps</p>
+				<p>Copilots & Process Catalysts</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">ML & Data Science</h3>
+				<p>Machine Learning</p>
+				<p>Data Science</p>
+				<p>Decision Intelligence</p>
+				<p>MLOps & AIOps</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">Product Innovation</h3>
+				<p>Data Applications</p>
+				<p>App Containerization</p>
+				<p>Experience Design</p>
+			</div>
+		</div>
+
+		<div class="my-4 grid grid-cols-1 gap-y-4 border-2 rounded-lg p-4">
+			<h2 class="text-xl text-[#d15635]">Strategy & Execution</h2>
+
+			<div>
+				<h3 class="font-bold">Strategy</h3>
+				<p>AI/Data Strategy & Governance</p>
+				<p>AI Readiness Assessment</p>
+				<p>Data Quality/Literacy/Stewardship</p>
+				<p>Marketplace Solutions</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">Program Execution</h3>
+				<p>Program Management</p>
+				<p>Agile Delivery</p>
+				<p>Product Ownership</p>
+			</div>
+
+			<div>
+				<h3 class="font-bold">Business Consulting</h3>
+				<p>CIO/CTO Interim Leadership</p>
+				<p>Org Transformation & Adoption</p>
+				<p>Business Process Engineering</p>
+			</div>
 		</div>
 	</div>
 </Layout>
