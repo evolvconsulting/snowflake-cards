@@ -29,12 +29,11 @@ import Layout from "../layouts/Layout.astro";
                         .compactMarginPair((d) => 30)
                         .neighbourMargin((a, b) => 20)
                         .nodeContent(function (d, i, arr, state) {
-                            const color = "#FFFFFF";
                             return `
-                                <div style='width:${d.width}px;height:${d.height}px;padding-left:1px;padding-right:1px'>
-                                        <div style="font-family: 'Inter', sans-serif;background-color:${color};  margin-left:-1px;width:${d.width - 2}px;height:${d.height}px;border-radius:10px;border: 1px solid #E4E2E9">
+                                <div style='width:${d.width}px;height:${d.height}px;padding-left:1px;padding-right:1px;'>
+                                        <div style="font-family: 'Inter', sans-serif;background-color:${d.data.type === "account" ? "#D3D3D3" : ""};margin-left:-1px;width:${d.width - 2}px;height:${d.height}px;border-radius:10px;border: 1px solid #E4E2E9">
                                             <div style="font-size:15px;color:#08011E;margin-left:20px;margin-top:10px">${d.data.name}</div>
-                                            <div style="color:#716E7B;margin-left:20px;margin-top:3px;font-size:10px;"> ${d.data.title}</div>
+                                            <div style="color:#716E7B;margin-left:20px;margin-top:3px;font-size:10px;">${d.data.title}</div>
                                         </div>
                                     </div>
                             `;

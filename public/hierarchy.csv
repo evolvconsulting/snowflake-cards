@@ -1,159 +1,420 @@
-id,parentId,name,title
-1,,Sridhar Ramaswamy,CEO
-2400,1,Benoit Dageville,Co-founder - President of Products
-2500,1,Mike Scarpelli,CFO
-2600,1,Chris Degnan,CRO
-2700,1,Tyler Prince,Global Leader - Alliances and Channels
-2800,1,Christian Kleinermann, EVP - Product
-100,1,Jon Beaulier,VP - Sales
-200,100,Josh Sullivan,RVP - FSI
-201,200,Megan Barros,DM - FSI West
-212,201,Aaron Isbell,AE
-213,201,Jim Kempski,AE
-214,201,Uphaar Kotru,AE
-202,200,Michael Desiderio,DM - FSI Central
-203,200,Ryan Barry,DM - FSI Northeast
-204,200,John Gallaro,DM - FSI PbS
-205,200,Teddy Lewis,DM -  FSI
-206,200,Alba Robinson, DM - FSI
-207,200,Anthony Mozzone,DM - FSI
-208,200,Mark Ehringer,DM - FSI
-209,200,Preston Emery,DM - FSI
-210,200,Rob Reinish,DM - FSI
-211,100,Scott McCarthy,RVP - Manufacturing
-215,211,Ben Langston,DM - Auto Manufacturing
-221,215,Aaron Dawson,AE
-222,215,Erik Swensson,AE
-223,215,Josh Golden,AE
-216,211,John Kim,DM - Energy
-224,216,Chris McMinn,AE
-225,216,Erich Stolz,AE
-226,216,Erik McKillip,AE
-227,216,Luke Johnson,AE
-228,216,Matt Kilgard,AE
-229,216,Meichen Ge,AE
-230,216,Adam Berg,AE
-217,211,Bill Bochert,DM - Industrials
-218,211,Rooney Thomas,DM - MFG
-219,211,William Bailey,DM - Hi-Tech
-220,211,Hannah Dewolf,DM - MFG
-300,100,Hanna Sadeghipour,PSM - Manufacturing
-400,100,Bill Schoeffel,RVP - Formerly DM - FSI NY Global
-500,100,Brooke Mcculley,RVP - HCLS-Enterprise
-600,100,Ryan Janoff,RVP - Retail & CPG
-700,100,Tom Davies,RVP - CME
-800,1,Mark Fleming,GVP - AMS Enterprise & Commercial Sales
-900,800,Jeff Lacamera,RVP - Enterprise Central
-901,900,Dana Wright,DM - Texas+
-906,901,Barrett Drew,AE
-907,901,Brendan Farrell,AE
-908,901,Jeremy Ross,AE
-909,901,Jon Schoff,AE
-910,901,Matt Mitchell,AE
-911,901,Shane Raftery,AE
-902,900,John Bruckner,DM - Heartland
-912,902,Andrew Tanler,AE
-913,902,Brian Potter,AE
-914,902,Desiree Stapleton,AE
-915,902,Jake Keefer,AE
-916,902,Kevin Johnson,AE
-917,902,Kyle Barry,AE
-918,902,Matt Murphy,AE
-919,902,Travis Kerr,AE
-903,900,Matthew Mergenthaler,DM - Midwest
-920,903,Ben Sochacki,AE
-921,903,Bryan Tews,AE
-922,903,Hart Gellman,AE
-923,903,Mike Biebel,AE
-924,903,Nathan Kahn,AE
-904,900,Shannon Grace,DM - Ohio Valley
-925,904,Alex Franco,AE
-926,904,Alex Humbert,AE
-927,904,Eric Borland,AE
-928,904,Laura Krisher,AE
-929,904,Randy Rodd,AE
-930,904,Shanna Brokaw,AE
-905,900,Mike Brandt,DM - HCLS
-931,905,Chris Broander,AE
-932,905,Chrissy Brogan,AE
-933,905,Julie Perulli,AE
-934,905,Mike Green,AE
-935,905,Paul Boal,AE
-1000,800,Rose Peterman,PSM - Enterprise Central
-1100,800,Adam Sadowski,RVP - Enterprise West
-1101,1100,Bill Eckholm,DM
-1102,1100,Eduardo Payan,DM
-1103,1100,JD Olsen,DM
-1104,1100,Nicolette Mullenix,DM
-1105,1100,Allison Be,DM
-1200,800,Adrian Tarquino,RVP - Enterprise Southeast
-1201,1200,Christian Yarbrough,DM
-1202,1200,Ian Breen,DM
-1203,1200,Robert Mccabe,DM
-1204,1200,Stuart Ritchie,DM
-1205,1200,Tony Segoviano,DM
-1300,800,Dean Kuvelis,RVP - Enterprise Sales West
-1301,1300,Alyssa George,DM
-1302,1300,Courteney Fanti,DM
-1302,1300,Erik Schneider,DM
-1303,1300,Raymond Navarro,DM
-1400,800,Lisa Yu,RVP - Commercial US
-1500,800,Matt Moscoffian,RVP - Enterprise East
-1501,1500,Bill McKenna,DM
-1502,1500,Bryan Abou-Rjaly,DM
-1503,1500,Cory Stratford,DM
-1504,1500,Dan Stefanini,DM
-1505,1500,Elizabeth Duff,DM
-1506,1500,TJ Napoli,DM
-1600,800,Shannon Katschilon,RVP - Enterprise Canada
-1700,1,Keegan Riley,GVP - Enterprise Sales
-1800,1700,Brian Daniels,RVP - US Central Enterprise Acquisition
-1801,1800,Brian Kaplan,DM - North Central
-1809,1801,Adam Dill,AE
-1810,1801,Aehab Awadallah,AE
-1811,1801,Albert Filman,AE
-1812,1801,Derrick Bohn,AE
-1813,1801,Jim Kempski,AE
-1814,1801,Steve Hawes,AE
-1802,1800,Mick Lesko,DM - South Central
-1815,1802,Brandon Lindeman,AE
-1816,1802,Collin Batson,AE
-1817,1802,Jon Gross,AE
-1818,1802,Kevin Urban,AE
-1819,1802,Nick Reker,AE
-1820,1802,Parker Schramm,AE
-1803,1800,Chris Frank,DM - Enterprise Sales - TOLA-K
-1821,1803,Luke Knott,AE
-1822,1803,Leigh Kirk,AE
-1823,1803,Doug Balsley,AE
-1824,1803,Kurt Swiger,AE
-1825,1803,Matt Hammond,AE
-1826,1803,David Marlow,AE
-1804,1800,Benjamin Short,DM
-1805,1800,Courtney Bencze,DM
-1806,1800,Joseph Alvarez,DM
-1807,1800,Scott Sheridan,DM
-1808,1800,Stephen Kalkbrenner,DM
-1900,1700,Tony Lisotta,PSM - Acquisition
-2000,1,Jamie Patel,VP - SEs
-2001,2000,Brian Bent,SED
-2002,2001,Josh Chacona,SEM
-2004,2002,Aaron Moore,SE
-2005,2002,Aran Sakzenian,SE
-2006,2002,Chris Honcoop,SE
-2007,2002,Ginu Kuncheria,SE
-2008,2002,Jeremy Griffith,SE
-2009,2002,Scott Hruby,SE
-2010,2002,Scott McGougan,SE
-2011,2002,Shady Elswaisy,SE
-2003,2001,Josh Weyburne,SEM
-2012,2003,New rep TBD
-2100,1,Jason Mills,VP
-2200,2100,Jason Hinds,SED
-2300,2100,Prasuj Loganathan,SED
-2301,2300,Shirley Reagor,SEM
-2302,2301,Adam Gaulding,SE
-2303,2301,Charles Mae,SE
-2304,2301,Corey Balko,SE
-2305,2301,Jonathan Martindale,SE
-2306,2301,Rick Frausto,SE
+id,parentId,name,title,type
+1,,Sridhar Ramaswamy,CEO,person
+2400,1,Benoit Dageville,Co-founder - President of Products,person
+2500,1,Mike Scarpelli,CFO,person
+2600,1,Chris Degnan,CRO,person
+2700,1,Tyler Prince,Global Leader - Alliances and Channels,person
+2800,1,Christian Kleinermann, EVP - Product,person
+100,1,Jon Beaulier,VP - Sales,person
+200,100,Josh Sullivan,RVP - FSI,person
+201,200,Megan Barros,DM - FSI West,person
+212,201,Aaron Isbell,AE,person
+213,201,Jim Kempski,AE,person
+214,201,Uphaar Kotru,AE,person
+202,200,Michael Desiderio,DM - FSI Central,person
+203,200,Ryan Barry,DM - FSI Northeast,person
+204,200,John Gallaro,DM - FSI PbS,person
+205,200,Teddy Lewis,DM -  FSI,person
+206,200,Alba Robinson, DM - FSI,person
+207,200,Anthony Mozzone,DM - FSI,person
+208,200,Mark Ehringer,DM - FSI,person
+209,200,Preston Emery,DM - FSI,person
+210,200,Rob Reinish,DM - FSI,person
+211,100,Scott McCarthy,RVP - Manufacturing,person
+215,211,Ben Langston,DM - Auto Manufacturing,person
+221,215,Aaron Dawson,AE,person
+222,215,Erik Swensson,AE,person
+223,215,Josh Golden,AE,person
+216,211,John Kim,DM - Energy,person
+224,216,Chris McMinn,AE,person
+225,216,Erich Stolz,AE,person
+226,216,Erik McKillip,AE,person
+227,216,Luke Johnson,AE,person
+228,216,Matt Kilgard,AE,person
+229,216,Meichen Ge,AE,person
+230,216,Adam Berg,AE,person
+217,211,Bill Bochert,DM - Industrials,person
+218,211,Rooney Thomas,DM - MFG,person
+219,211,William Bailey,DM - Hi-Tech,person
+220,211,Hannah Dewolf,DM - MFG,person
+300,100,Hanna Sadeghipour,PSM - Manufacturing,person
+400,100,Bill Schoeffel,RVP - Formerly DM - FSI NY Global,person
+500,100,Brooke Mcculley,RVP - HCLS-Enterprise,person
+600,100,Ryan Janoff,RVP - Retail & CPG,person
+700,100,Tom Davies,RVP - CME,person
+800,1,Mark Fleming,GVP - AMS Enterprise & Commercial Sales,person
+900,800,Jeff Lacamera,RVP - Enterprise Central,person
+901,900,Dana Wright,DM - Texas+,person
+906,901,Barrett Drew,AE,person
+907,901,Brendan Farrell,AE,person
+908,901,Jeremy Ross,AE,person
+909,901,Jon Schoff,AE,person
+910,901,Matt Mitchell,AE,person
+911,901,Shane Raftery,AE,person
+902,900,John Bruckner,DM - Heartland,person
+912,902,Andrew Tanler,AE,person
+913,902,Brian Potter,AE,person
+914,902,Desiree Stapleton,AE,person
+915,902,Jake Keefer,AE,person
+916,902,Kevin Johnson,AE,person
+917,902,Kyle Barry,AE,person
+918,902,Matt Murphy,AE,person
+919,902,Travis Kerr,AE,person
+903,900,Matthew Mergenthaler,DM - Midwest,person
+920,903,Ben Sochacki,AE,person
+921,903,Bryan Tews,AE,person
+922,903,Hart Gellman,AE,person
+923,903,Mike Biebel,AE,person
+924,903,Nathan Kahn,AE,person
+904,900,Shannon Grace,DM - Ohio Valley,person
+925,904,Alex Franco,AE,person
+926,904,Alex Humbert,AE,person
+927,904,Eric Borland,AE,person
+928,904,Laura Krisher,AE,person
+929,904,Randy Rodd,AE,person
+930,904,Shanna Brokaw,AE,person
+905,900,Mike Brandt,DM - HCLS,person
+931,905,Chris Broander,AE,person
+932,905,Chrissy Brogan,AE,person
+933,905,Julie Perulli,AE,person
+934,905,Mike Green,AE,person
+935,905,Paul Boal,AE,person
+1000,800,Rose Peterman,PSM - Enterprise Central,person
+1100,800,Adam Sadowski,RVP - Enterprise West,person
+1101,1100,Bill Eckholm,DM,person
+1102,1100,Eduardo Payan,DM,person
+1103,1100,JD Olsen,DM,person
+1104,1100,Nicolette Mullenix,DM,person
+1105,1100,Allison Be,DM,person
+1200,800,Adrian Tarquino,RVP - Enterprise Southeast,person
+1201,1200,Christian Yarbrough,DM,person
+1202,1200,Ian Breen,DM,person
+1203,1200,Robert Mccabe,DM,person
+1204,1200,Stuart Ritchie,DM,person
+1205,1200,Tony Segoviano,DM,person
+1300,800,Dean Kuvelis,RVP - Enterprise Sales West,person
+1301,1300,Alyssa George,DM,person
+1302,1300,Courteney Fanti,DM,person
+1302,1300,Erik Schneider,DM,person
+1303,1300,Raymond Navarro,DM,person
+1400,800,Lisa Yu,RVP - Commercial US,person
+1500,800,Matt Moscoffian,RVP - Enterprise East,person
+1501,1500,Bill McKenna,DM,person
+1502,1500,Bryan Abou-Rjaly,DM,person
+1503,1500,Cory Stratford,DM,person
+1504,1500,Dan Stefanini,DM,person
+1505,1500,Elizabeth Duff,DM,person
+1506,1500,TJ Napoli,DM,person
+1600,800,Shannon Katschilon,RVP - Enterprise Canada,person
+1700,1,Keegan Riley,GVP - Enterprise Sales,person
+1800,1700,Brian Daniels,RVP - US Central Enterprise Acquisition,person
+1801,1800,Brian Kaplan,DM - North Central,person
+1809,1801,Adam Dill,AE,person
+1810,1801,Aehab Awadallah,AE,person
+1811,1801,Albert Filman,AE,person
+1812,1801,Derrick Bohn,AE,person
+1813,1801,Jim Kempski,AE,person
+1814,1801,Steve Hawes,AE,person
+1802,1800,Mick Lesko,DM - South Central,person
+1815,1802,Brandon Lindeman,AE,person
+1816,1802,Collin Batson,AE,person
+1817,1802,Jon Gross,AE,person
+1818,1802,Kevin Urban,AE,person
+1819,1802,Nick Reker,AE,person
+1820,1802,Parker Schramm,AE,person
+1803,1800,Chris Frank,DM - Enterprise Sales - TOLA-K,person
+1821,1803,Luke Knott,AE,person
+1822,1803,Leigh Kirk,AE,person
+1823,1803,Doug Balsley,AE,person
+1824,1803,Kurt Swiger,AE,person
+1825,1803,Matt Hammond,AE,person
+1826,1803,David Marlow,AE,person
+1804,1800,Benjamin Short,DM,person
+1805,1800,Courtney Bencze,DM,person
+1806,1800,Joseph Alvarez,DM,person
+1807,1800,Scott Sheridan,DM,person
+1808,1800,Stephen Kalkbrenner,DM,person
+1900,1700,Tony Lisotta,PSM - Acquisition,person
+2000,1,Jamie Patel,VP - SEs,person
+2001,2000,Brian Bent,SED,person
+2002,2001,Josh Chacona,SEM,person
+2004,2002,Aaron Moore,SE,person
+2005,2002,Aran Sakzenian,SE,person
+2006,2002,Chris Honcoop,SE,person
+2007,2002,Ginu Kuncheria,SE,person
+2008,2002,Jeremy Griffith,SE,person
+2009,2002,Scott Hruby,SE,person
+2010,2002,Scott McGougan,SE,person
+2011,2002,Shady Elswaisy,SE,person
+2003,2001,Josh Weyburne,SEM,person
+2012,2003,New rep TBD,,person
+2100,1,Jason Mills,VP,person
+2200,2100,Jason Hinds,SED,person
+2300,2100,Prasuj Loganathan,SED,person
+2301,2300,Shirley Reagor,SEM,person
+2302,2301,Adam Gaulding,SE,person
+2303,2301,Charles Mae,SE,person
+2304,2301,Corey Balko,SE,person
+2305,2301,Jonathan Martindale,SE,person
+2306,2301,Rick Frausto,SE,person
+5000,916,1st National Bank of Omaha,,account
+5001,215,3M,,account
+5002,929,AAM,,account
+5003,215,ABB,,account
+5004,930,Abercombie & Fitch,,account
+5005,927,Active Campaign,,account
+5006,922,Acxiom,,account
+5007,215,ADM,,account
+5008,924,Airlines Reporting Corp. / ATPCO,,account
+5009,924,Alaska Airlines,,account
+5010,221,GM,,account
+5011,221,Nissan,,account
+5012,212,Wells Fargo,,account
+5013,215,Broadcom,,account
+5014,215,Dell,,account
+5015,215,Juniper Networks,,account
+5016,215,KLA,,account
+5017,925,ANSYS,,account
+5018,925,Dicks Sporting Goods,,account
+5019,925,Game Changer Media,,account
+5020,925,Sherwin Williams,,account
+5021,925,Vertiv,,account
+5022,926,Cross Country Mortgage,,account
+5023,926,Eaton,,account
+5024,926,Joanne Stores,,account
+5025,926,PPG,,account
+5026,926,Westfield (1848),,account
+5027,906,American Airlines,,account
+5028,906,DFW International,,account
+5029,906,Frontier Airlines,,account
+5030,906,Securonix,,account
+5031,920,AON,,account
+5032,920,Arthur J. Gallagher,,account
+5033,920,Basis,,account
+5034,920,CTC,,account
+5035,920,Hub International,,account
+5036,920,Kodaii Capital Management,,account
+5037,907,At Home Stores,,account
+5038,907,Celenese,,account
+5038,907,Dynata,,account
+5039,907,Employbridge,,account
+5040,907,HF Sinclair,,account
+5041,907,SRS,,account
+5042,907,Integrity Marketing Group,,account
+5043,907,Kinetsu Global,,account
+5044,907,Mouser Technologies,,account
+5045,907,Neiman Marcus,,account
+5046,907,Neiman Marcus,,account
+5047,907,Six Flags,,account
+5048,907,Paciolan,,account
+5049,913,Komatsu,,account
+5050,913,American Equity Investment,,account
+5051,913,Doosan Bobcat,,account
+5052,913,EMC Insurance,,account
+5054,913,First Premier,,account
+5055,913,Marvin Lumber,,account
+5056,921,Cboe,,account
+5057,921,CDK Global,,account
+5058,921,CDW,,account
+5059,921,Paylocity,,account
+5060,921,Project 44,,account
+5061,921,Relatively,,account
+5062,921,Reyes Holdings,,account
+5063,215,Samsung,,account
+5064,224,Baker Hughes,,account
+5065,224,Chevron,,account
+5066,224,Enterprise Products,,account
+5067,224,Halliburton,,account
+5068,224,Marathon Petroleum,,account
+5069,224,Occidental Petroleum (Oxy),,account
+5070,224,Phillips 66,,account
+5071,224,SLB,,account
+5072,224,Valero,,account
+5073,215,ADM,,account
+5074,215,Boeing,,account
+5075,215,Deere,,account
+5076,215,Dow,,account
+5077,215,GE,,account
+5078,215,UPS,,account
+5079,215,Hyundai,,account
+5080,215,Lucid,,account
+5081,215,Mazda,,account
+5082,215,Tesla,,account
+5083,914,Associated Bank,,account
+5084,914,Baird,,account
+5085,914,BetaNXT,,account
+5086,914,Mastery Logistics,,account
+5087,914,Motiv Partners,,account
+5088,914,Schneider National,,account
+5089,914,West Bend Mutual,,account
+5090,215,3M,,account
+5091,215,Ecolab,,account
+5092,215,Emerson,,account
+5093,927,Active Campaign,,account
+5094,927,CNO,,account
+5095,927,Fruit of the Loom,,account
+5096,927,OneMain,,account
+5097,927,Open Lane,,account
+5098,927,Sallie Mae,,account
+5099,927,USIC,,account
+5100,226,BP (BPX),,account
+5101,226,ConocoPhillips,,account
+5102,215,Cisco,,account
+5103,922,Acxiom,,account
+5104,922,Chesapeake Energy,,account
+5105,922,Devon Energy,,account
+5106,922,Love's Travel Stops,,account
+5107,922,OGE,,account
+5108,922,One Gas,,account
+5109,915,Arctic Wolf,,account
+5110,915,Clarios,,account
+5111,915,Fetch,,account
+5112,915,ManPower,,account
+5113,915,Snap-On,,account
+5114,915,SPS Commerce,,account
+5115,908,Chord Energy,,account
+5116,908,Crown Castle,,account
+5117,908,Goodman,,account
+5118,908,High Radius,,account
+5119,908,Insperity,,account
+5120,908,LyondellBassell,,account
+5121,908,Marathon Oil,,account
+5122,908,Technip FMC,,account
+5123,908,Tokio Marine HCC,,account
+5124,908,Westlake Chemical,,account
+5125,908,Texas Mutual Insurance,,account
+5126,908,Vericast,,account
+5127,909,ESO Solutions,account
+5128,909,Ethos Technologies,account
+5129,909,N-able Technologies,account
+5130,909,Q2 Holdings,account
+5131,909,Sailpoint,account
+5132,909,Upland Software,account
+5133,223,Daimler Trucks,account
+5134,223,MBUSA,account
+5135,223,Paccar,account
+5136,223,Rivian,account
+5137,916,Gallup,account
+5138,916,Kiewit,account
+5139,916,Mutual of Omaha,account
+5140,916,Textron Aviation,account
+5141,916,Union Pacific,account
+5142,916,Werner Trucking,account
+5143,916,Woodman Insurance,account
+5144,917,CHS,account
+5145,917,CWT,account
+5146,917,Datasite,account
+5147,917,DigiKey,account
+5148,917,Donaldson,account
+5149,917,Renaissance Learning,account
+5150,917,Securien,account
+5151,917,Thrivent,account
+5152,928,Cincinnati Insurance Co.,account
+5153,928,EW Scripps,account
+5154,928,Fifth Third Bank,account
+5155,928,Great American Insurance,account
+5156,928,Huntington National Bank,account
+5157,928,Paycor,account
+5158,215,ABB,account
+5159,215,Honeywell,account
+5160,215,Otis,account
+5161,228,ExxonMobil,account
+5162,910,Entergy,account
+5163,910,Epicor,account
+5164,910,Indeed,account
+5165,910,Netspend,account
+5166,910,Quickpivot,account
+5167,910,Wargaming,account
+5168,910,Waste Management,account
+5169,918,Ameritas,account
+5170,918,Bass Pro,account
+5171,918,Bunge,account
+5172,918,Equipmentshare.com,account
+5173,918,O'Reilly,account
+5174,918,RGA,account
+5175,918,Shelter Mutual Insurance,account
+5176,918,UMB Financial,account
+5177,215,CH Robinson,account
+5178,215,FedEx,account
+5179,215,Penske,account
+5180,229,Shell Energy,account
+5181,229,Vistra Energy,account
+5182,229,Dominion Energy,account
+5183,229,EDF Renewables,account
+5184,215,Carrier,account
+5185,215,Johnson Controls,account
+5186,215,Lennar,account
+5187,923,Enova,account
+5188,923,Ensono,account
+5189,923,JLL,account
+5190,923,Kemper Corporate Services,account
+5191,923,Motorola Solutions,account
+5192,923,Rush Street Interactive,account
+5193,923,Sears Home Services,account
+5194,924,Airlines Reporting Corp. / ATPCO,account
+5195,924,Alaska Airlines,account
+5196,924,Hawaiian Airlines,account
+5197,924,Hyatt,account
+5198,924,JetBlue Airways,account
+5199,924,United,account
+5200,215,AMAT,account
+5201,215,Intel,account
+5202,215,Micron,account
+5203,215,TSMC,account
+5204,216,Cargill,account
+5205,215,Ford,account
+5206,215,Honda,account
+5207,215,Subaru,account
+5208,215,VW,account
+5209,215,Cummins,account
+5210,215,Goodyear,account
+5211,215,Siemens,account
+5212,929,AAM,account
+5213,929,Borg Warner,account
+5214,929,Flagstar Bank,account
+5215,929,Lay Z Boy,account
+5216,929,Lineage Logistics,account
+5217,929,Meijer/Fresh Thyme,account
+5218,929,North American Bancard,account
+5219,929,Spartan Nash,account
+5220,215,HP,account
+5221,215,HPE,account
+5222,215,LAM,account
+5223,215,NVIDIA,account
+5224,215,Panasonic,account
+5225,911,Elevate,account
+5226,911,CBRE,account
+5227,911,Comerica,account
+5228,911,Mr. Cooper,account
+5229,911,Reece USA,account
+5230,911,Rent-a-center,account
+5231,911,Texas Capital Bank,account
+5232,911,Wingstop,accounts
+5233,930,Abercombie & Fitch,account
+5234,930,Big Lots,account
+5235,930,IGS Energy,account
+5236,930,Lexis Nexis,account
+5237,930,Lon Operations (Bread),account
+5238,930,Netjets,account
+5239,930,OCLC,account
+5240,930,VisaJet LTD.,account
+5241,215,AMD,account
+5242,215,Jabil,account
+5243,215,Onsemi,account
+5244,215,Qualcomm,account
+5245,215,Solidigm,account
+5246,214,Coinbase,account
+5247,214,Franklin Templeton,account
+5248,214,PayPal,account
+5249,215,BMW,account
+5250,215,Stellantis,account
+5251,215,Toyota,account
+5252,215,Caterpillar,account
+5253,201,American Express,account
+5254,201,CapGroup,account
+5255,201,Charles Schwab,account
+5256,201,Experian,account
+5257,201,Farmers Insurance,account
+5258,201,First American,account
+5259,201,Pimco,account
+5260,201,Visa,account
