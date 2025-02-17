@@ -107,7 +107,11 @@ id,parentId,name,title,type
 1506,1500,TJ Napoli,DM,person
 1600,800,Shannon Katschilon,RVP - Enterprise Canada,person
 1700,1,Keegan Riley,GVP - Enterprise Sales,person
-1800,1700,Brian Daniels,RVP - US Central Enterprise Acquisition,person
+1701,1700,Greg Robinson, RVP - West Acquisition, person
+1701,1700,Maureen Noonann, RVP - Central Acquisition, person
+1701,1700,Shawn Crossman, RVP - East Acquisition, person
+1701,1700,Suzanne Olson, RVP - Majors Acquisition, person
+1800,800,Brian Daniels,RVP - US Central Enterprise Acquisition,person
 1801,1800,Brian Kaplan,DM - North Central,person
 1809,1801,Adam Dill,AE,person
 1810,1801,Aehab Awadallah,AE,person
