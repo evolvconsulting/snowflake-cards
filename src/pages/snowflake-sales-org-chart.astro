@@ -15,34 +15,100 @@ import Layout from "../layouts/Layout.astro";
         ></script>
 
         <div class="m-auto">
-            <div class="chart-container w-screen h-screen"></div>
+            <div class="chart-container w-screen h-screen">
+                <div class="flex justify-center space-x-4">
+                    <button
+                        class="cursor-pointer bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                        id="expandBtn">Expand All</button
+                    >
+                    <button
+                        class="cursor-pointer bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                        id="collapseBtn">Collapse All</button
+                    >
 
-            <script>
-                var chart = null;
-
-                d3.csv("/snowflake-cards/hierarchy.csv").then((data) => {
-                    chart = new d3.OrgChart()
-                        .nodeHeight((d) => 65)
-                        .nodeWidth((d) => 220 + 2)
-                        .childrenMargin((d) => 50)
-                        .compactMarginBetween((d) => 35)
-                        .compactMarginPair((d) => 30)
-                        .neighbourMargin((a, b) => 20)
-                        .nodeContent(function (d, i, arr, state) {
-                            return `
-                                <div style='width:${d.width}px;height:${d.height}px;padding-left:1px;padding-right:1px;'>
-                                        <div style="font-family: 'Inter', sans-serif;background-color:${d.data.type === "account" ? "#D3D3D3" : ""};margin-left:-1px;width:${d.width - 2}px;height:${d.height}px;border-radius:10px;border: 1px solid #E4E2E9">
-                                            <div style="font-size:15px;color:#08011E;margin-left:20px;margin-top:10px">${d.data.name}</div>
-                                            <div style="color:#716E7B;margin-left:20px;margin-top:3px;font-size:10px;">${d.data.title}</div>
-                                        </div>
-                                    </div>
-                            `;
-                        })
-                        .container(".chart-container")
-                        .data(data)
-                        .render();
-                });
-            </script>
+                    <input
+                        class="border rounded p-2"
+                        type="text"
+                        placeholder="Type here..."
+                        oninput="filterChart(event)"
+                    />
+                </div>
+            </div>
         </div>
+
+        <script is:inline>
+            let chart;
+
+            function filterChart(e) {
+                debugger;
+
+                // Get input value
+                const value = e.srcElement.value;
+
+                // Clear previous higlighting
+                chart.clearHighlighting();
+
+                // Get chart nodes
+                const data = chart.data();
+
+                // Mark all previously expanded nodes for collapse
+                data.forEach((d) => (d._expanded = false));
+
+                // Loop over data and check if input value matches any name
+                data.forEach((d) => {
+                    if (
+                        value != "" &&
+                        d.name.toLowerCase().includes(value.toLowerCase())
+                    ) {
+                        // If matches, mark node as highlighted
+                        d._highlighted = true;
+                        d._expanded = true;
+                    }
+                });
+
+                // Update data and rerender graph
+                chart.data(data).render().fit();
+
+                console.log("filtering chart", e.srcElement.value);
+            }
+
+            d3.csv("/snowflake-cards/hierarchy.csv").then((data) => {
+                chart = new d3.OrgChart()
+                    .nodeHeight((d) => 65)
+                    .nodeWidth((d) => 220 + 2)
+                    .childrenMargin((d) => 50)
+                    .compactMarginBetween((d) => 35)
+                    .compactMarginPair((d) => 30)
+                    .neighbourMargin((a, b) => 20)
+                    .nodeContent(function (d, i, arr, state) {
+                        return `
+                            <div style='width:${d.width}px;height:${d.height}px;padding-left:1px;padding-right:1px;'>
+                                <div style="font-family: 'Inter', sans-serif;background-color:${d.data.type === "account" ? "#D3D3D3" : ""};margin-left:-1px;width:${d.width - 2}px;height:${d.height}px;border-radius:10px;border: 1px solid #E4E2E9">
+                                    <div style="font-size:15px;color:#08011E;margin-left:20px;margin-top:10px">${d.data.name}</div>
+                                    <div style="color:#716E7B;margin-left:20px;margin-top:3px;font-size:10px;">${d.data.title}</div>
+                                </div>
+                            </div>
+                        `;
+                    })
+                    .container(".chart-container")
+                    .data(data)
+                    .render();
+
+                const expandButton = document.getElementById("expandBtn");
+                const collapseButton = document.getElementById("collapseBtn");
+
+                expandButton.addEventListener("click", () => {
+                    if (chart) {
+                        chart.expandAll().fit();
+                    }
+                });
+
+                collapseButton.addEventListener("click", () => {
+                    if (chart) {
+                        chart.collapseAll().fit();
+                    }
+                });
+            });
+        </script>
     </div>
 </Layout>
