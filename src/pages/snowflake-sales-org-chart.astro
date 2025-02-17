@@ -16,7 +16,9 @@ import Layout from "../layouts/Layout.astro";
 
         <div class="m-auto">
             <div class="chart-container w-screen h-screen">
-                <div class="flex justify-center space-x-4">
+                <div
+                    class="flex flex-col justify-center space-y-4 mx-5 md:flex-row md:space-x-4 md:space-y-0"
+                >
                     <button
                         class="cursor-pointer bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
                         id="expandBtn">Expand All</button
@@ -40,33 +42,24 @@ import Layout from "../layouts/Layout.astro";
             let chart;
 
             function filterChart(e) {
-                debugger;
-
-                // Get input value
                 const value = e.srcElement.value;
 
-                // Clear previous higlighting
                 chart.clearHighlighting();
 
-                // Get chart nodes
                 const data = chart.data();
 
-                // Mark all previously expanded nodes for collapse
                 data.forEach((d) => (d._expanded = false));
 
-                // Loop over data and check if input value matches any name
                 data.forEach((d) => {
                     if (
                         value != "" &&
                         d.name.toLowerCase().includes(value.toLowerCase())
                     ) {
-                        // If matches, mark node as highlighted
                         d._highlighted = true;
                         d._expanded = true;
                     }
                 });
 
-                // Update data and rerender graph
                 chart.data(data).render().fit();
 
                 console.log("filtering chart", e.srcElement.value);
