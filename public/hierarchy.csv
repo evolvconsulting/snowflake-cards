@@ -1,424 +1,424 @@
 id,parentId,name,title,type
-1,,Sridhar Ramaswamy,CEO,person
-2400,1,Benoit Dageville,Co-founder - President of Products,person
-2500,1,Mike Scarpelli,CFO,person
-2600,1,Chris Degnan,CRO,person
-2700,1,Tyler Prince,Global Leader - Alliances and Channels,person
-2800,1,Christian Kleinermann, EVP - Product,person
-100,1,Jon Beaulier,VP - Sales,person
-200,100,Josh Sullivan,RVP - FSI,person
-201,200,Megan Barros,DM - FSI West,person
-212,201,Aaron Isbell,AE,person
-213,201,Jim Kempski,AE,person
-214,201,Uphaar Kotru,AE,person
-202,200,Michael Desiderio,DM - FSI Central,person
-203,200,Ryan Barry,DM - FSI Northeast,person
-204,200,John Gallaro,DM - FSI PbS,person
-205,200,Teddy Lewis,DM -  FSI,person
-206,200,Alba Robinson, DM - FSI,person
-207,200,Anthony Mozzone,DM - FSI,person
-208,200,Mark Ehringer,DM - FSI,person
-209,200,Preston Emery,DM - FSI,person
-210,200,Rob Reinish,DM - FSI,person
-211,100,Scott McCarthy,RVP - Manufacturing,person
-215,211,Ben Langston,DM - Auto Manufacturing,person
-221,215,Aaron Dawson,AE,person
-222,215,Erik Swensson,AE,person
-223,215,Josh Golden,AE,person
-216,211,John Kim,DM - Energy,person
-224,216,Chris McMinn,AE,person
-225,216,Erich Stolz,AE,person
-226,216,Erik McKillip,AE,person
-227,216,Luke Johnson,AE,person
-228,216,Matt Kilgard,AE,person
-229,216,Meichen Ge,AE,person
-230,216,Adam Berg,AE,person
-217,211,Bill Bochert,DM - Industrials,person
-218,211,Rooney Thomas,DM - MFG,person
-219,211,William Bailey,DM - Hi-Tech,person
-220,211,Hannah Dewolf,DM - MFG,person
-300,100,Hanna Sadeghipour,PSM - Manufacturing,person
-400,100,Bill Schoeffel,RVP - Formerly DM - FSI NY Global,person
-500,100,Brooke Mcculley,RVP - HCLS-Enterprise,person
-600,100,Ryan Janoff,RVP - Retail & CPG,person
-700,100,Tom Davies,RVP - CME,person
-800,1,Mark Fleming,GVP - AMS Enterprise & Commercial Sales,person
-900,800,Jeff Lacamera,RVP - Enterprise Central,person
-901,900,Dana Wright,DM - Texas+,person
-906,901,Barrett Drew,AE,person
-907,901,Brendan Farrell,AE,person
-908,901,Jeremy Ross,AE,person
-909,901,Jon Schoff,AE,person
-910,901,Matt Mitchell,AE,person
-911,901,Shane Raftery,AE,person
-902,900,John Bruckner,DM - Heartland,person
-912,902,Andrew Tanler,AE,person
-913,902,Brian Potter,AE,person
-914,902,Desiree Stapleton,AE,person
-915,902,Jake Keefer,AE,person
-916,902,Kevin Johnson,AE,person
-917,902,Kyle Barry,AE,person
-918,902,Matt Murphy,AE,person
-919,902,Travis Kerr,AE,person
-903,900,Matthew Mergenthaler,DM - Midwest,person
-920,903,Ben Sochacki,AE,person
-921,903,Bryan Tews,AE,person
-922,903,Hart Gellman,AE,person
-923,903,Mike Biebel,AE,person
-924,903,Nathan Kahn,AE,person
-904,900,Shannon Grace,DM - Ohio Valley,person
-925,904,Alex Franco,AE,person
-926,904,Alex Humbert,AE,person
-927,904,Eric Borland,AE,person
-928,904,Laura Krisher,AE,person
-929,904,Randy Rodd,AE,person
-930,904,Shanna Brokaw,AE,person
-905,900,Mike Brandt,DM - HCLS,person
-931,905,Chris Broander,AE,person
-932,905,Chrissy Brogan,AE,person
-933,905,Julie Perulli,AE,person
-934,905,Mike Green,AE,person
-935,905,Paul Boal,AE,person
-1000,800,Rose Peterman,PSM - Enterprise Central,person
-1100,800,Adam Sadowski,RVP - Enterprise West,person
-1101,1100,Bill Eckholm,DM,person
-1102,1100,Eduardo Payan,DM,person
-1103,1100,JD Olsen,DM,person
-1104,1100,Nicolette Mullenix,DM,person
-1105,1100,Allison Be,DM,person
-1200,800,Adrian Tarquino,RVP - Enterprise Southeast,person
-1201,1200,Christian Yarbrough,DM,person
-1202,1200,Ian Breen,DM,person
-1203,1200,Robert Mccabe,DM,person
-1204,1200,Stuart Ritchie,DM,person
-1205,1200,Tony Segoviano,DM,person
-1300,800,Dean Kuvelis,RVP - Enterprise Sales West,person
-1301,1300,Alyssa George,DM,person
-1302,1300,Courteney Fanti,DM,person
-1302,1300,Erik Schneider,DM,person
-1303,1300,Raymond Navarro,DM,person
-1400,800,Lisa Yu,RVP - Commercial US,person
-1500,800,Matt Moscoffian,RVP - Enterprise East,person
-1501,1500,Bill McKenna,DM,person
-1502,1500,Bryan Abou-Rjaly,DM,person
-1503,1500,Cory Stratford,DM,person
-1504,1500,Dan Stefanini,DM,person
-1505,1500,Elizabeth Duff,DM,person
-1506,1500,TJ Napoli,DM,person
-1600,800,Shannon Katschilon,RVP - Enterprise Canada,person
-1700,1,Keegan Riley,GVP - Enterprise Sales,person
-1701,1700,Greg Robinson, RVP - West Acquisition, person
-1701,1700,Maureen Noonann, RVP - Central Acquisition, person
-1701,1700,Shawn Crossman, RVP - East Acquisition, person
-1701,1700,Suzanne Olson, RVP - Majors Acquisition, person
-1800,800,Brian Daniels,RVP - US Central Enterprise Acquisition,person
-1801,1800,Brian Kaplan,DM - North Central,person
-1809,1801,Adam Dill,AE,person
-1810,1801,Aehab Awadallah,AE,person
-1811,1801,Albert Filman,AE,person
-1812,1801,Derrick Bohn,AE,person
-1813,1801,Jim Kempski,AE,person
-1814,1801,Steve Hawes,AE,person
-1802,1800,Mick Lesko,DM - South Central,person
-1815,1802,Brandon Lindeman,AE,person
-1816,1802,Collin Batson,AE,person
-1817,1802,Jon Gross,AE,person
-1818,1802,Kevin Urban,AE,person
-1819,1802,Nick Reker,AE,person
-1820,1802,Parker Schramm,AE,person
-1803,1800,Chris Frank,DM - Enterprise Sales - TOLA-K,person
-1821,1803,Luke Knott,AE,person
-1822,1803,Leigh Kirk,AE,person
-1823,1803,Doug Balsley,AE,person
-1824,1803,Kurt Swiger,AE,person
-1825,1803,Matt Hammond,AE,person
-1826,1803,David Marlow,AE,person
-1804,1800,Benjamin Short,DM,person
-1805,1800,Courtney Bencze,DM,person
-1806,1800,Joseph Alvarez,DM,person
-1807,1800,Scott Sheridan,DM,person
-1808,1800,Stephen Kalkbrenner,DM,person
-1900,1700,Tony Lisotta,PSM - Acquisition,person
-2000,1,Jamie Patel,VP - SEs,person
-2001,2000,Brian Bent,SED,person
-2002,2001,Josh Chacona,SEM,person
-2004,2002,Aaron Moore,SE,person
-2005,2002,Aran Sakzenian,SE,person
-2006,2002,Chris Honcoop,SE,person
-2007,2002,Ginu Kuncheria,SE,person
-2008,2002,Jeremy Griffith,SE,person
-2009,2002,Scott Hruby,SE,person
-2010,2002,Scott McGougan,SE,person
-2011,2002,Shady Elswaisy,SE,person
-2003,2001,Josh Weyburne,SEM,person
-2012,2003,New rep TBD,,person
-2100,1,Jason Mills,VP,person
-2200,2100,Jason Hinds,SED,person
-2300,2100,Prasuj Loganathan,SED,person
-2301,2300,Shirley Reagor,SEM,person
-2302,2301,Adam Gaulding,SE,person
-2303,2301,Charles Mae,SE,person
-2304,2301,Corey Balko,SE,person
-2305,2301,Jonathan Martindale,SE,person
-2306,2301,Rick Frausto,SE,person
-5000,916,1st National Bank of Omaha,,account
-5001,215,3M,,account
-5002,929,AAM,,account
-5003,215,ABB,,account
-5004,930,Abercombie & Fitch,,account
-5005,927,Active Campaign,,account
-5006,922,Acxiom,,account
-5007,215,ADM,,account
-5008,924,Airlines Reporting Corp. / ATPCO,,account
-5009,924,Alaska Airlines,,account
-5010,221,GM,,account
-5011,221,Nissan,,account
-5012,212,Wells Fargo,,account
-5013,215,Broadcom,,account
-5014,215,Dell,,account
-5015,215,Juniper Networks,,account
-5016,215,KLA,,account
-5017,925,ANSYS,,account
-5018,925,Dicks Sporting Goods,,account
-5019,925,Game Changer Media,,account
-5020,925,Sherwin Williams,,account
-5021,925,Vertiv,,account
-5022,926,Cross Country Mortgage,,account
-5023,926,Eaton,,account
-5024,926,Joanne Stores,,account
-5025,926,PPG,,account
-5026,926,Westfield (1848),,account
-5027,906,American Airlines,,account
-5028,906,DFW International,,account
-5029,906,Frontier Airlines,,account
-5030,906,Securonix,,account
-5031,920,AON,,account
-5032,920,Arthur J. Gallagher,,account
-5033,920,Basis,,account
-5034,920,CTC,,account
-5035,920,Hub International,,account
-5036,920,Kodaii Capital Management,,account
-5037,907,At Home Stores,,account
-5038,907,Celenese,,account
-5038,907,Dynata,,account
-5039,907,Employbridge,,account
-5040,907,HF Sinclair,,account
-5041,907,SRS,,account
-5042,907,Integrity Marketing Group,,account
-5043,907,Kinetsu Global,,account
-5044,907,Mouser Technologies,,account
-5045,907,Neiman Marcus,,account
-5046,907,Neiman Marcus,,account
-5047,907,Six Flags,,account
-5048,907,Paciolan,,account
-5049,913,Komatsu,,account
-5050,913,American Equity Investment,,account
-5051,913,Doosan Bobcat,,account
-5052,913,EMC Insurance,,account
-5054,913,First Premier,,account
-5055,913,Marvin Lumber,,account
-5056,921,Cboe,,account
-5057,921,CDK Global,,account
-5058,921,CDW,,account
-5059,921,Paylocity,,account
-5060,921,Project 44,,account
-5061,921,Relatively,,account
-5062,921,Reyes Holdings,,account
-5063,215,Samsung,,account
-5064,224,Baker Hughes,,account
-5065,224,Chevron,,account
-5066,224,Enterprise Products,,account
-5067,224,Halliburton,,account
-5068,224,Marathon Petroleum,,account
-5069,224,Occidental Petroleum (Oxy),,account
-5070,224,Phillips 66,,account
-5071,224,SLB,,account
-5072,224,Valero,,account
-5073,215,ADM,,account
-5074,215,Boeing,,account
-5075,215,Deere,,account
-5076,215,Dow,,account
-5077,215,GE,,account
-5078,215,UPS,,account
-5079,215,Hyundai,,account
-5080,215,Lucid,,account
-5081,215,Mazda,,account
-5082,215,Tesla,,account
-5083,914,Associated Bank,,account
-5084,914,Baird,,account
-5085,914,BetaNXT,,account
-5086,914,Mastery Logistics,,account
-5087,914,Motiv Partners,,account
-5088,914,Schneider National,,account
-5089,914,West Bend Mutual,,account
-5090,215,3M,,account
-5091,215,Ecolab,,account
-5092,215,Emerson,,account
-5093,927,Active Campaign,,account
-5094,927,CNO,,account
-5095,927,Fruit of the Loom,,account
-5096,927,OneMain,,account
-5097,927,Open Lane,,account
-5098,927,Sallie Mae,,account
-5099,927,USIC,,account
-5100,226,BP (BPX),,account
-5101,226,ConocoPhillips,,account
-5102,215,Cisco,,account
-5103,922,Acxiom,,account
-5104,922,Chesapeake Energy,,account
-5105,922,Devon Energy,,account
-5106,922,Love's Travel Stops,,account
-5107,922,OGE,,account
-5108,922,One Gas,,account
-5109,915,Arctic Wolf,,account
-5110,915,Clarios,,account
-5111,915,Fetch,,account
-5112,915,ManPower,,account
-5113,915,Snap-On,,account
-5114,915,SPS Commerce,,account
-5115,908,Chord Energy,,account
-5116,908,Crown Castle,,account
-5117,908,Goodman,,account
-5118,908,High Radius,,account
-5119,908,Insperity,,account
-5120,908,LyondellBassell,,account
-5121,908,Marathon Oil,,account
-5122,908,Technip FMC,,account
-5123,908,Tokio Marine HCC,,account
-5124,908,Westlake Chemical,,account
-5125,908,Texas Mutual Insurance,,account
-5126,908,Vericast,,account
-5127,909,ESO Solutions,,account
-5128,909,Ethos Technologies,,account
-5129,909,N-able Technologies,,account
-5130,909,Q2 Holdings,,account
-5131,909,Sailpoint,,account
-5132,909,Upland Software,,account
-5133,223,Daimler Trucks,,account
-5134,223,MBUSA,,account
-5135,223,Paccar,,account
-5136,223,Rivian,,account
-5137,916,Gallup,,account
-5138,916,Kiewit,,account
-5139,916,Mutual of Omaha,,account
-5140,916,Textron Aviation,,account
-5141,916,Union Pacific,,account
-5142,916,Werner Trucking,,account
-5143,916,Woodman Insurance,,account
-5144,917,CHS,,account
-5145,917,CWT,,account
-5146,917,Datasite,,account
-5147,917,DigiKey,,account
-5148,917,Donaldson,,account
-5149,917,Renaissance Learning,,account
-5150,917,Securien,,account
-5151,917,Thrivent,,account
-5152,928,Cincinnati Insurance Co.,,account
-5153,928,EW Scripps,,account
-5154,928,Fifth Third Bank,,account
-5155,928,Great American Insurance,,account
-5156,928,Huntington National Bank,,account
-5157,928,Paycor,,account
-5158,215,ABB,,account
-5159,215,Honeywell,,account
-5160,215,Otis,,account
-5161,228,ExxonMobil,,account
-5162,910,Entergy,,account
-5163,910,Epicor,,account
-5164,910,Indeed,,account
-5165,910,Netspend,,account
-5166,910,Quickpivot,,account
-5167,910,Wargaming,,account
-5168,910,Waste Management,,account
-5169,918,Ameritas,,account
-5170,918,Bass Pro,,account
-5171,918,Bunge,,account
-5172,918,Equipmentshare.com,,account
-5173,918,O'Reilly,,account
-5174,918,RGA,,account
-5175,918,Shelter Mutual Insurance,,account
-5176,918,UMB Financial,,account
-5177,215,CH Robinson,,account
-5178,215,FedEx,,account
-5179,215,Penske,,account
-5180,229,Shell Energy,,account
-5181,229,Vistra Energy,,account
-5182,229,Dominion Energy,,account
-5183,229,EDF Renewables,,account
-5184,215,Carrier,,account
-5185,215,Johnson Controls,,account
-5186,215,Lennar,,account
-5187,923,Enova,,account
-5188,923,Ensono,,account
-5189,923,JLL,,account
-5190,923,Kemper Corporate Services,,account
-5191,923,Motorola Solutions,,account
-5192,923,Rush Street Interactive,,account
-5193,923,Sears Home Services,,account
-5194,924,Airlines Reporting Corp. / ATPCO,,account
-5195,924,Alaska Airlines,,account
-5196,924,Hawaiian Airlines,,account
-5197,924,Hyatt,,account
-5198,924,JetBlue Airways,,account
-5199,924,United,,account
-5200,215,AMAT,,account
-5201,215,Intel,,account
-5202,215,Micron,,account
-5203,215,TSMC,,account
-5204,216,Cargill,,account
-5205,215,Ford,,account
-5206,215,Honda,,account
-5207,215,Subaru,,account
-5208,215,VW,,account
-5209,215,Cummins,,account
-5210,215,Goodyear,,account
-5211,215,Siemens,,account
-5212,929,AAM,,account
-5213,929,Borg Warner,,account
-5214,929,Flagstar Bank,,account
-5215,929,Lay Z Boy,,account
-5216,929,Lineage Logistics,,account
-5217,929,Meijer/Fresh Thyme,,account
-5218,929,North American Bancard,,account
-5219,929,Spartan Nash,,account
-5220,215,HP,,account
-5221,215,HPE,,account
-5222,215,LAM,,account
-5223,215,NVIDIA,,account
-5224,215,Panasonic,,account
-5225,911,Elevate,,account
-5226,911,CBRE,,account
-5227,911,Comerica,,account
-5228,911,Mr. Cooper,,account
-5229,911,Reece USA,,account
-5230,911,Rent-a-center,,account
-5231,911,Texas Capital Bank,,account
-5232,911,Wingstop,,accounts
-5233,930,Abercombie & Fitch,,account
-5234,930,Big Lots,,account
-5235,930,IGS Energy,,account
-5236,930,Lexis Nexis,,account
-5237,930,Lon Operations (Bread),,account
-5238,930,Netjets,,account
-5239,930,OCLC,,account
-5240,930,VisaJet LTD.,,account
-5241,215,AMD,,account
-5242,215,Jabil,,account
-5243,215,Onsemi,,account
-5244,215,Qualcomm,,account
-5245,215,Solidigm,,account
-5246,214,Coinbase,,account
-5247,214,Franklin Templeton,,account
-5248,214,PayPal,,account
-5249,215,BMW,,account
-5250,215,Stellantis,,account
-5251,215,Toyota,,account
-5252,215,Caterpillar,,account
-5253,201,American Express,,account
-5254,201,CapGroup,,account
-5255,201,Charles Schwab,,account
-5256,201,Experian,,account
-5257,201,Farmers Insurance,,account
-5258,201,First American,,account
-5259,201,Pimco,,account
-5260,201,Visa,,account
+0d2e85fe-604a-4aec-835d-5a4fedd526a7,,Sridhar Ramaswamy,CEO,person
+60ee15e8-9d77-46c4-a49c-9ca20a3af6af,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Benoit Dageville,Co-founder - President of Products,person
+b3d7db7f-a552-4003-bca3-53a6caaf5831,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Mike Scarpelli,CFO,person
+ed08143f-db26-4880-8f38-b6baaa22f855,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Chris Degnan,CRO,person
+b266e1e5-483b-424e-b373-554c35272ebb,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Tyler Prince,Global Leader - Alliances and Channels,person
+68c69894-643b-4ee2-a215-ef0a72dc8c66,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Christian Kleinermann, EVP - Product,person
+5102d627-37bd-4b6d-861e-9ad8c1d24815,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Jon Beaulier,VP - Sales,person
+f94b01c6-5cb0-4918-abdc-fe08a2728a9c,5102d627-37bd-4b6d-861e-9ad8c1d24815,Josh Sullivan,RVP - FSI,person
+f266d79f-088e-479a-99e7-d4b2a4ef3ba0,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Megan Barros,DM - FSI West,person
+58767057-98fc-44a3-b1ac-ef5320a4d2ae,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Aaron Isbell,AE,person
+ab5ad60f-5517-4f9a-82d5-b5bea6f5765d,58767057-98fc-44a3-b1ac-ef5320a4d2ae,Wells Fargo,,account
+d33723f7-3cae-400b-9cb1-a469cc576627,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Jim Kempski,AE,person
+194c826d-665a-42d5-b503-cd43ac087023,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Uphaar Kotru,AE,person
+faacc8f7-cce1-489b-bc47-376fabbaf7de,194c826d-665a-42d5-b503-cd43ac087023,Coinbase,,account
+5c3963b5-93db-42d1-922e-b9081bfe3d53,194c826d-665a-42d5-b503-cd43ac087023,Franklin Templeton,,account
+5cd730e1-fb18-47be-a058-6b8c34d6ea04,194c826d-665a-42d5-b503-cd43ac087023,PayPal,,account
+80304c12-7966-41f5-b794-420c2367265b,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,American Express,,account
+0f024219-b4c7-4e71-a1e8-d6973effc538,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,CapGroup,,account
+d2e3c4c7-4381-4149-8ddd-fd7205850372,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Charles Schwab,,account
+cb7e161f-2a41-4caa-9492-0c0ceffdbb07,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Experian,,account
+6ff40987-a069-4adf-80dd-f82e7d46c5a0,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Farmers Insurance,,account
+de9b6eb2-1d01-4893-b20c-349c21edab2b,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,First American,,account
+0eb0393e-2170-4086-8d56-bfa53784ac72,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Pimco,,account
+9c1ed614-ace6-4764-b058-93075fdbbcae,f266d79f-088e-479a-99e7-d4b2a4ef3ba0,Visa,,account
+37de47de-94ad-4396-9b5a-4b1562f56588,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Michael Desiderio,DM - FSI Central,person
+cd8e78b5-0938-4a8a-ab6c-3c3588a05ed9,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Ryan Barry,DM - FSI Northeast,person
+9a35cb7e-4ee8-4e02-b2a1-f612dd230a5e,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,John Gallaro,DM - FSI PbS,person
+dffebc80-f5ae-4ca5-992b-e90efd02a669,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Teddy Lewis,DM -  FSI,person
+8d33320e-c326-4c62-9ba0-a7b493a37cd8,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Alba Robinson, DM - FSI,person
+41c38fe2-48e1-40fa-b0f8-47550a6e7dd5,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Anthony Mozzone,DM - FSI,person
+60e5dbd6-f1e6-42a0-9b76-57277d681405,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Mark Ehringer,DM - FSI,person
+4b4fbacc-a478-4864-be82-c80035fcb520,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Preston Emery,DM - FSI,person
+0524a254-f96c-40e1-b794-05ea341b0261,f94b01c6-5cb0-4918-abdc-fe08a2728a9c,Rob Reinish,DM - FSI,person
+ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,5102d627-37bd-4b6d-861e-9ad8c1d24815,Scott McCarthy,RVP - Manufacturing,person
+fbc99636-c98a-4866-91fb-9729ed1ddb62,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,Ben Langston,DM - Auto Manufacturing,person
+02c67121-f4fa-4346-a9ec-6d9ec88cd185,fbc99636-c98a-4866-91fb-9729ed1ddb62,Aaron Dawson,AE,person
+734b59b2-5a58-44e9-b431-8e33a25323d5,02c67121-f4fa-4346-a9ec-6d9ec88cd185,GM,,account
+3eaa350c-997a-4e99-bd83-b453278a1885,02c67121-f4fa-4346-a9ec-6d9ec88cd185,Nissan,,account
+f461a48c-b009-4990-bc44-ccc508703d0f,fbc99636-c98a-4866-91fb-9729ed1ddb62,Erik Swensson,AE,person
+e148563a-158a-4893-b724-464cd5652509,fbc99636-c98a-4866-91fb-9729ed1ddb62,Josh Golden,AE,person
+5beac044-ad75-443e-ab06-1afa00ca4879,e148563a-158a-4893-b724-464cd5652509,Daimler Trucks,,account
+5365f6e8-ce5d-4f8c-824c-6c46f5388137,e148563a-158a-4893-b724-464cd5652509,MBUSA,,account
+562feb01-46c4-4daa-8c18-4669c3cb6ea4,e148563a-158a-4893-b724-464cd5652509,Paccar,,account
+30c0d401-0fc6-4bd6-90cc-968719cec6b4,e148563a-158a-4893-b724-464cd5652509,Rivian,,account
+ea3fe0b7-11fc-4c16-8bf5-da55375d90aa,fbc99636-c98a-4866-91fb-9729ed1ddb62,3M,,account
+3c4b3241-25bc-42f7-bb51-6b02b8b0799f,fbc99636-c98a-4866-91fb-9729ed1ddb62,ABB,,account
+89b59a05-0155-40d6-868b-a94136318361,fbc99636-c98a-4866-91fb-9729ed1ddb62,ADM,,account
+46a9e6a7-fc14-4a1a-8bf0-deb7c62fa3dd,fbc99636-c98a-4866-91fb-9729ed1ddb62,Broadcom,,account
+cb45a995-4c87-4bbd-8765-bf6ac86ac23d,fbc99636-c98a-4866-91fb-9729ed1ddb62,Dell,,account
+b835e049-76f1-47b5-9a57-7bc249fdb963,fbc99636-c98a-4866-91fb-9729ed1ddb62,Juniper Networks,,account
+86f494f0-7e9e-418e-ae06-8b2ec211e3b6,fbc99636-c98a-4866-91fb-9729ed1ddb62,KLA,,account
+727f62a1-28e6-474c-adbb-d81ceb8edeeb,fbc99636-c98a-4866-91fb-9729ed1ddb62,Samsung,,account
+3b52c0de-8396-4777-93f0-34eee210fe34,fbc99636-c98a-4866-91fb-9729ed1ddb62,ADM,,account
+cd6ee35e-acde-499c-9ecc-497eafe3e95f,fbc99636-c98a-4866-91fb-9729ed1ddb62,Boeing,,account
+3e073efa-d636-431e-963c-cd37c44a7500,fbc99636-c98a-4866-91fb-9729ed1ddb62,Deere,,account
+aca9c48f-df9f-4871-8438-bf2e33cd6ffb,fbc99636-c98a-4866-91fb-9729ed1ddb62,Dow,,account
+4e3fff3e-cf3c-4bff-95f5-94f3a4d14fc6,fbc99636-c98a-4866-91fb-9729ed1ddb62,GE,,account
+fed62867-6942-484d-a56a-e11eb6e04c5d,fbc99636-c98a-4866-91fb-9729ed1ddb62,UPS,,account
+6fa2e96e-8bf4-42c1-8421-2e6a8970782b,fbc99636-c98a-4866-91fb-9729ed1ddb62,Hyundai,,account
+e04f0d47-8691-4adc-ad6b-1e2d34862c2c,fbc99636-c98a-4866-91fb-9729ed1ddb62,Lucid,,account
+5901000b-a953-4410-9037-80a31de8af27,fbc99636-c98a-4866-91fb-9729ed1ddb62,Mazda,,account
+22b9c89d-290a-4246-a46c-304593fb9407,fbc99636-c98a-4866-91fb-9729ed1ddb62,Tesla,,account
+3967dbc2-2bcc-40bb-9698-782baf927e81,fbc99636-c98a-4866-91fb-9729ed1ddb62,3M,,account
+8a56f052-0f6e-4bde-bd04-7632a800d903,fbc99636-c98a-4866-91fb-9729ed1ddb62,Ecolab,,account
+4873137e-6fcd-4f5f-80bd-86aadda5d866,fbc99636-c98a-4866-91fb-9729ed1ddb62,Emerson,,account
+b1cdd0ea-191a-431b-aec6-c8eadcb8167c,fbc99636-c98a-4866-91fb-9729ed1ddb62,Cisco,,account
+a60d5913-9a47-4159-8500-ccc8d26da47a,fbc99636-c98a-4866-91fb-9729ed1ddb62,ABB,,account
+4ceced47-be17-4c09-9a8c-1f92a806498c,fbc99636-c98a-4866-91fb-9729ed1ddb62,Honeywell,,account
+485e0435-32c1-49a5-8c01-cc5690733310,fbc99636-c98a-4866-91fb-9729ed1ddb62,Otis,,account
+34576d9f-dd3a-4d23-9877-7689333b9ac6,fbc99636-c98a-4866-91fb-9729ed1ddb62,CH Robinson,,account
+f93a42de-4880-4460-8f2a-e09dc0f08578,fbc99636-c98a-4866-91fb-9729ed1ddb62,FedEx,,account
+bf6ee6f6-3679-41c9-b01d-4cd55c75244c,fbc99636-c98a-4866-91fb-9729ed1ddb62,Penske,,account
+8e0d465f-7e7c-4844-9cee-540e390c065b,fbc99636-c98a-4866-91fb-9729ed1ddb62,Carrier,,account
+73f08cd6-ada8-43d9-aadf-17dfcdfbce63,fbc99636-c98a-4866-91fb-9729ed1ddb62,Johnson Controls,,account
+0d7708c5-0e95-4579-a77d-8e72248bcece,fbc99636-c98a-4866-91fb-9729ed1ddb62,Lennar,,account
+f504ed36-d1e0-414b-b708-e9876270b8a7,fbc99636-c98a-4866-91fb-9729ed1ddb62,AMAT,,account
+fbd43a35-d9db-4db4-9d13-607f637b9c7b,fbc99636-c98a-4866-91fb-9729ed1ddb62,Intel,,account
+3de302f2-9008-46f2-b8aa-a6332cd980d0,fbc99636-c98a-4866-91fb-9729ed1ddb62,Micron,,account
+5499a4c3-8ecc-478d-8025-f0511c82d7de,fbc99636-c98a-4866-91fb-9729ed1ddb62,TSMC,,account
+cb1d5cdb-761e-4376-8af7-68fae0e98f18,fbc99636-c98a-4866-91fb-9729ed1ddb62,Ford,,account
+60061d9e-37fe-4fe4-af7d-9136054a44c4,fbc99636-c98a-4866-91fb-9729ed1ddb62,Honda,,account
+ea19e574-496e-4d24-a9c2-243763d9935c,fbc99636-c98a-4866-91fb-9729ed1ddb62,Subaru,,account
+0a6002da-39f4-42e0-b2d4-2e5da51919f1,fbc99636-c98a-4866-91fb-9729ed1ddb62,VW,,account
+9a4bf0fc-5fd6-45c7-8be3-8219f3269a4f,fbc99636-c98a-4866-91fb-9729ed1ddb62,Cummins,,account
+601c4450-6d38-432b-a0e0-b4f889ec5120,fbc99636-c98a-4866-91fb-9729ed1ddb62,Goodyear,,account
+ba749237-49cd-4072-88fc-7d95542af1e9,fbc99636-c98a-4866-91fb-9729ed1ddb62,Siemens,,account
+2764cc61-572f-40ef-a25c-f0ccd950f9c8,fbc99636-c98a-4866-91fb-9729ed1ddb62,HP,,account
+dda60d72-531d-4891-acc3-8c1053471d7c,fbc99636-c98a-4866-91fb-9729ed1ddb62,HPE,,account
+0c0f55d6-7838-4a9b-b6e9-0824d2efeab1,fbc99636-c98a-4866-91fb-9729ed1ddb62,LAM,,account
+1c3ea3a5-ac6a-4e5e-8ece-8e922c54038d,fbc99636-c98a-4866-91fb-9729ed1ddb62,NVIDIA,,account
+7c1f5475-6c21-4124-b687-94a40b54f656,fbc99636-c98a-4866-91fb-9729ed1ddb62,Panasonic,,account
+07e573f5-d3ec-4b4e-b448-62a6f3aaaef0,fbc99636-c98a-4866-91fb-9729ed1ddb62,AMD,,account
+43d97956-8345-4e38-9ae0-da3095b646d5,fbc99636-c98a-4866-91fb-9729ed1ddb62,Jabil,,account
+0f6803a3-781c-4b12-acd8-27e5ee3560b8,fbc99636-c98a-4866-91fb-9729ed1ddb62,Onsemi,,account
+2070933f-721a-497b-a2a4-7876e9108526,fbc99636-c98a-4866-91fb-9729ed1ddb62,Qualcomm,,account
+b7ecd614-aacd-4da7-82c0-4d1c5b6c5ff6,fbc99636-c98a-4866-91fb-9729ed1ddb62,Solidigm,,account
+6fce4dd1-728c-42b3-a9f4-140a0a398919,fbc99636-c98a-4866-91fb-9729ed1ddb62,BMW,,account
+b7b9197a-9f26-49b0-b974-90e6e822fdb4,fbc99636-c98a-4866-91fb-9729ed1ddb62,Stellantis,,account
+85767c60-ec45-4c41-aa32-1e20905f06e4,fbc99636-c98a-4866-91fb-9729ed1ddb62,Toyota,,account
+efb8e49e-2699-4fd9-9ab6-22048ad11930,fbc99636-c98a-4866-91fb-9729ed1ddb62,Caterpillar,,account
+50811263-f5fd-441d-b6d2-b80263d3b607,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,John Kim,DM - Energy,person
+0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,50811263-f5fd-441d-b6d2-b80263d3b607,Chris McMinn,AE,person
+09d01711-cd5c-49f4-ac5f-fc1c8423ac08,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Baker Hughes,,account
+01c66118-2fc9-472a-a09e-13b373c17511,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Chevron,,account
+2a14033b-2701-4ed0-9eb1-69d57b356025,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Enterprise Products,,account
+c389c645-715f-4ca2-9547-f7384d2bee09,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Halliburton,,account
+4bf6de5b-34f6-4e6b-8c28-13f6cb67e811,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Marathon Petroleum,,account
+3dd88f1c-cad5-43a8-a5c4-e2d5d81839a7,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Occidental Petroleum (Oxy),,account
+123f82b9-dc22-4e74-b1e8-282b92ab5b10,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Phillips 66,,account
+dab7edd0-0074-4457-ae9b-b4662315fb16,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,SLB,,account
+89377e2e-7f3f-4793-ba85-98704b062bb4,0d377af8-a73c-4fcd-a92b-e7e0e4e9182f,Valero,,account
+4f825732-6662-46db-b9e8-aba87cff4a45,50811263-f5fd-441d-b6d2-b80263d3b607,Erich Stolz,AE,person
+705748f5-f59c-4d67-9d83-86887acba01c,50811263-f5fd-441d-b6d2-b80263d3b607,Erik McKillip,AE,person
+7e733c32-e170-4195-a7b7-6754a60feac9,705748f5-f59c-4d67-9d83-86887acba01c,BP (BPX),,account
+c18ba09b-6cc2-437b-b854-64f6c79b088d,705748f5-f59c-4d67-9d83-86887acba01c,ConocoPhillips,,account
+7e3d6d3d-28a7-49ad-853d-b4ee8abc6b59,50811263-f5fd-441d-b6d2-b80263d3b607,Luke Johnson,AE,person
+e4324214-55a0-4e53-8a7c-78b2c81d3192,50811263-f5fd-441d-b6d2-b80263d3b607,Matt Kilgard,AE,person
+3adc4af7-b286-4af9-9b1f-a72eb695f858,e4324214-55a0-4e53-8a7c-78b2c81d3192,ExxonMobil,,account
+68680dda-9441-4f16-8db3-ece40a59bedb,50811263-f5fd-441d-b6d2-b80263d3b607,Meichen Ge,AE,person
+486650a3-fba3-40ef-bdec-fbabbe5783a8,68680dda-9441-4f16-8db3-ece40a59bedb,Shell Energy,,account
+2fb47ae8-28b5-46e6-a2d9-a8be87d78203,68680dda-9441-4f16-8db3-ece40a59bedb,Vistra Energy,,account
+715e42a8-8149-44a1-aeeb-f47892edb776,68680dda-9441-4f16-8db3-ece40a59bedb,Dominion Energy,,account
+d1a17e10-34e2-4538-8962-2ed45fd7ee04,68680dda-9441-4f16-8db3-ece40a59bedb,EDF Renewables,,account
+c37300fe-cd37-448d-927b-8321cee62a09,50811263-f5fd-441d-b6d2-b80263d3b607,Adam Berg,AE,person
+7b3d7caa-01aa-43a0-9fb4-1801905b4df4,50811263-f5fd-441d-b6d2-b80263d3b607,Cargill,,account
+e47020b5-63b2-4f7e-a46c-7040c8ab69c8,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,Bill Bochert,DM - Industrials,person
+02f9d57c-9998-437d-a0b1-56c4970b3538,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,Rooney Thomas,DM - MFG,person
+5b6e2e23-1bb5-4e54-8776-4785760aca79,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,William Bailey,DM - Hi-Tech,person
+608af3d0-1bdb-440c-8b0a-31d32d03fcd2,ff9a97d8-2c7a-49c4-8d5c-a54ae07b3e45,Hannah Dewolf,DM - MFG,person
+85e47b2c-024c-43d2-9591-a9a64fca028d,5102d627-37bd-4b6d-861e-9ad8c1d24815,Hanna Sadeghipour,PSM - Manufacturing,person
+9f4daca9-302a-48d3-9bf7-8ba49fc98df5,5102d627-37bd-4b6d-861e-9ad8c1d24815,Bill Schoeffel,RVP - Formerly DM - FSI NY Global,person
+76dbc08f-15c6-4dad-945a-cdb55bef96b5,5102d627-37bd-4b6d-861e-9ad8c1d24815,Brooke Mcculley,RVP - HCLS-Enterprise,person
+fd37fb96-6388-4235-a521-f96181e8eeee,5102d627-37bd-4b6d-861e-9ad8c1d24815,Ryan Janoff,RVP - Retail & CPG,person
+80a92989-be8e-4f4f-b41a-5d7a1f52b20f,5102d627-37bd-4b6d-861e-9ad8c1d24815,Tom Davies,RVP - CME,person
+44123d96-7e28-425c-841d-9e1c86c01396,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Mark Fleming,GVP - AMS Enterprise & Commercial Sales,person
+8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,44123d96-7e28-425c-841d-9e1c86c01396,Jeff Lacamera,RVP - Enterprise Central,person
+957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,Dana Wright,DM - Texas+,person
+21283693-7cb1-460c-8aff-743b1b38c2fb,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Barrett Drew,AE,person
+1a04d799-bc4e-45b0-86be-b3976a359bd9,21283693-7cb1-460c-8aff-743b1b38c2fb,American Airlines,,account
+3e945e76-5d1e-410b-b8d2-54c5e7e3b22c,21283693-7cb1-460c-8aff-743b1b38c2fb,DFW International,,account
+b85cafa2-2a07-4a43-a82e-d846b2b1e5c6,21283693-7cb1-460c-8aff-743b1b38c2fb,Frontier Airlines,,account
+9a9a9988-2bd7-4d10-9d0c-e970b93a8844,21283693-7cb1-460c-8aff-743b1b38c2fb,Securonix,,account
+454fba2e-831e-49c3-99d5-f10815ebbd16,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Brendan Farrell,AE,person
+218036fa-50b5-4f1e-84d2-1db03bca14cd,454fba2e-831e-49c3-99d5-f10815ebbd16,At Home Stores,,account
+966adc34-af9c-48ec-a9ee-4c8918692a4f,454fba2e-831e-49c3-99d5-f10815ebbd16,Dynata,,account
+83cc0ea7-1b81-4f29-9726-6f11e6482b21,454fba2e-831e-49c3-99d5-f10815ebbd16,Dynata,,account
+7f3ed8f1-e490-4db2-973a-86109fc88bac,454fba2e-831e-49c3-99d5-f10815ebbd16,Employbridge,,account
+f2ca9045-6610-46ba-a0da-a0048d55a945,454fba2e-831e-49c3-99d5-f10815ebbd16,HF Sinclair,,account
+4854dbf6-14b0-4dd1-b354-069efb5a6185,454fba2e-831e-49c3-99d5-f10815ebbd16,SRS,,account
+452e35d8-75f1-4eb1-b86d-d64e4225402c,454fba2e-831e-49c3-99d5-f10815ebbd16,Integrity Marketing Group,,account
+2a96d3f8-b101-4046-946d-55885bc80882,454fba2e-831e-49c3-99d5-f10815ebbd16,Kinetsu Global,,account
+19cdb1d5-203d-45bb-ae23-2449fc2b08a3,454fba2e-831e-49c3-99d5-f10815ebbd16,Mouser Technologies,,account
+82ef7a31-789d-48df-86be-d2e144b08566,454fba2e-831e-49c3-99d5-f10815ebbd16,Neiman Marcus,,account
+4901bb32-93f1-4122-a442-652e271fbb30,454fba2e-831e-49c3-99d5-f10815ebbd16,Neiman Marcus,,account
+2da0996f-f998-4936-bc6b-73cdd246be8f,454fba2e-831e-49c3-99d5-f10815ebbd16,Six Flags,,account
+1d49a723-1c54-4f71-b869-8d0e6fd01d4a,454fba2e-831e-49c3-99d5-f10815ebbd16,Paciolan,,account
+6ed49eef-c3bf-4bbc-9426-b748b60d6230,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Jeremy Ross,AE,person
+39e8c993-ea2a-4ca3-ab9b-0e6361800ccc,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Chord Energy,,account
+5c9a773a-6ecc-4b17-8a30-a1e64e0cd045,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Crown Castle,,account
+013cae3f-5d5f-4e4d-a6c0-dbaca565f751,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Goodman,,account
+e09ff1ea-2171-47fb-9824-e2e023fb807b,6ed49eef-c3bf-4bbc-9426-b748b60d6230,High Radius,,account
+8e1801da-1cb1-4a48-bcc1-0cb1fa5291ea,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Insperity,,account
+3272a7ae-ad50-4a99-a5dd-1022dd574ab6,6ed49eef-c3bf-4bbc-9426-b748b60d6230,LyondellBassell,,account
+43e0e2b2-c787-46f2-957a-1d0d6b96477a,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Marathon Oil,,account
+1e137474-e187-4e5f-ab63-a7cb7cc53926,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Technip FMC,,account
+ddff48bb-05f4-42af-ad51-3c056ee43c56,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Tokio Marine HCC,,account
+cb364f76-dd85-41c2-a111-9067b2abbfa4,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Westlake Chemical,,account
+a6bb6e51-55c2-4995-8f36-9e3ddcd65ba6,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Texas Mutual Insurance,,account
+cf2e5180-f83a-4c1d-ad3e-ccd6fe44c88e,6ed49eef-c3bf-4bbc-9426-b748b60d6230,Vericast,,account
+1a17a952-aa7a-4f5c-9353-4564f3d1c778,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Jon Schoff,AE,person
+9c1a997f-ee58-4205-a14b-ed0ec97e19a2,1a17a952-aa7a-4f5c-9353-4564f3d1c778,ESO Solutions,,account
+71e952fe-6615-4692-a082-57de55b56488,1a17a952-aa7a-4f5c-9353-4564f3d1c778,Ethos Technologies,,account
+7a294856-f938-416e-b34f-b63aa7e7f47e,1a17a952-aa7a-4f5c-9353-4564f3d1c778,N-able Technologies,,account
+b308e5e6-c784-4b32-8d9e-6c40b620fd73,1a17a952-aa7a-4f5c-9353-4564f3d1c778,Q2 Holdings,,account
+bde4180c-1149-4877-a1e7-f02ab354b5a5,1a17a952-aa7a-4f5c-9353-4564f3d1c778,Sailpoint,,account
+f5dc7359-0053-46f1-a741-88d13eb9ed2f,1a17a952-aa7a-4f5c-9353-4564f3d1c778,Upland Software,,account
+4d117151-0076-477f-bfbd-317062040913,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Matt Mitchell,AE,person
+a0c7db69-3e1d-4bbb-9764-10968f806d20,4d117151-0076-477f-bfbd-317062040913,Entergy,,account
+a3545083-68e0-471c-9062-6aa0ca7cdfe8,4d117151-0076-477f-bfbd-317062040913,Epicor,,account
+c6d2ae2f-7c69-44c1-96a0-cc59b1076751,4d117151-0076-477f-bfbd-317062040913,Indeed,,account
+c7ba79f1-44d4-4a4b-9788-7d27783d5143,4d117151-0076-477f-bfbd-317062040913,Netspend,,account
+87ab4ff9-58e7-44d6-83ce-fd2b5be151c3,4d117151-0076-477f-bfbd-317062040913,Quickpivot,,account
+3afb8427-0a6f-481c-b16b-ec4959cbd9d2,4d117151-0076-477f-bfbd-317062040913,Wargaming,,account
+0c38c678-4777-4b8f-bd6d-2e61734cb12b,4d117151-0076-477f-bfbd-317062040913,Waste Management,,account
+92424731-e75d-4d06-b302-f7986ae4b1c9,957b0b66-de6a-4e0d-b33f-fcd0f2e91d08,Shane Raftery,AE,person
+17939a38-a093-4d5a-8f93-3bafa154eda8,92424731-e75d-4d06-b302-f7986ae4b1c9,Elevate,,account
+367dc640-ccd4-4275-9699-31f307c6ecb9,92424731-e75d-4d06-b302-f7986ae4b1c9,CBRE,,account
+08799657-59ce-4b81-8e1a-42d0bf7d3a5b,92424731-e75d-4d06-b302-f7986ae4b1c9,Comerica,,account
+f96a3a2f-55e8-44fa-b825-03e6a9a5a35c,92424731-e75d-4d06-b302-f7986ae4b1c9,Mr. Cooper,,account
+9d0c600c-f07d-4ef3-a5bd-d2abf603f8c2,92424731-e75d-4d06-b302-f7986ae4b1c9,Reece USA,,account
+a12457e0-fb11-4d54-835c-4ead72711564,92424731-e75d-4d06-b302-f7986ae4b1c9,Rent-a-center,,account
+17a46a85-9dd6-4271-bcb2-f8d55efc2ae4,92424731-e75d-4d06-b302-f7986ae4b1c9,Texas Capital Bank,,account
+d10a58cf-addb-48fa-bbae-a382fd308b57,92424731-e75d-4d06-b302-f7986ae4b1c9,Wingstop,,accounts
+61f2c2a2-09c2-4635-801d-78654eb240bb,8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,John Bruckner,DM - Heartland,person
+c5c35253-cb51-428a-a5d4-fb0b5e66fd0d,61f2c2a2-09c2-4635-801d-78654eb240bb,Andrew Tanler,AE,person
+a03cc417-8db8-4098-ba45-99f1f3b12966,61f2c2a2-09c2-4635-801d-78654eb240bb,Brian Potter,AE,person
+a3800cf7-192e-447e-b03a-38a6fa3a77c8,a03cc417-8db8-4098-ba45-99f1f3b12966,Komatsu,,account
+1971fcd4-6744-496b-83ad-d9e364dc9e07,a03cc417-8db8-4098-ba45-99f1f3b12966,American Equity Investment,,account
+f027e7d6-4d96-49a3-b90e-ae7a17105881,a03cc417-8db8-4098-ba45-99f1f3b12966,Doosan Bobcat,,account
+f61d1bef-6032-439f-bcda-37dc05fed172,a03cc417-8db8-4098-ba45-99f1f3b12966,EMC Insurance,,account
+ab954f56-1f4e-45c5-b728-e3cf19e1761c,a03cc417-8db8-4098-ba45-99f1f3b12966,First Premier,,account
+08f174ef-9c03-4b65-8367-06b1c23cac11,a03cc417-8db8-4098-ba45-99f1f3b12966,Marvin Lumber,,account
+9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,61f2c2a2-09c2-4635-801d-78654eb240bb,Desiree Stapleton,AE,person
+a5765b33-05a8-4d49-9fe2-2942e5e7f055,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,Associated Bank,,account
+97205960-56ff-4e5b-ac93-41a2a10068d2,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,Baird,,account
+d9dbe9f8-1eff-41be-9350-f8c683cf4547,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,BetaNXT,,account
+c487e67d-209d-4fb9-94b5-ad46aeff0fd3,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,Mastery Logistics,,account
+01434ba8-fbc1-4b64-9303-77af9c00cac0,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,Motiv Partners,,account
+ae1f821a-d09e-4c5b-b28d-059a5c9b766d,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,Schneider National,,account
+7a871d4a-daa5-4d5e-9353-9d6f2590f49b,9bbc7590-6bf8-4b13-bdfc-f2837552b2ed,West Bend Mutual,,account
+2326ad14-432f-4efa-bd12-1ae1159bcf4c,61f2c2a2-09c2-4635-801d-78654eb240bb,Jake Keefer,AE,person
+dbcb8ce3-40f7-49df-be33-4d9896f95017,2326ad14-432f-4efa-bd12-1ae1159bcf4c,Arctic Wolf,,account
+9a720a3c-e003-43df-a045-7f6e7d9e71db,2326ad14-432f-4efa-bd12-1ae1159bcf4c,Clarios,,account
+bc14515c-8294-4fc9-93d7-4654c9b1f44a,2326ad14-432f-4efa-bd12-1ae1159bcf4c,Fetch,,account
+00cf4664-ce19-4eb7-8dff-4b32acfaa626,2326ad14-432f-4efa-bd12-1ae1159bcf4c,ManPower,,account
+c2033060-d59b-4fab-9aa6-36973e6f237e,2326ad14-432f-4efa-bd12-1ae1159bcf4c,Snap-On,,account
+9fd471b1-2e6c-4504-8397-52eae8ba22cd,2326ad14-432f-4efa-bd12-1ae1159bcf4c,SPS Commerce,,account
+896a8bd4-62a8-4441-bd82-0d2979b0376a,61f2c2a2-09c2-4635-801d-78654eb240bb,Kevin Johnson,AE,person
+db9239cd-8c94-4ca7-ad46-5b690e9ee040,896a8bd4-62a8-4441-bd82-0d2979b0376a,1st National Bank of Omaha,,account
+9be9095f-cb43-442c-8d5c-ddcbeb31cf89,896a8bd4-62a8-4441-bd82-0d2979b0376a,Gallup,,account
+13046091-43bc-4116-97ef-11742a3ccc86,896a8bd4-62a8-4441-bd82-0d2979b0376a,Kiewit,,account
+98f8e369-5f15-4d1f-80b1-8bb1872793d6,896a8bd4-62a8-4441-bd82-0d2979b0376a,Mutual of Omaha,,account
+9e828ce7-4391-46d1-b77e-1385eb192bd8,896a8bd4-62a8-4441-bd82-0d2979b0376a,Textron Aviation,,account
+863d61bd-d73a-4333-813c-94a87b4fb2e4,896a8bd4-62a8-4441-bd82-0d2979b0376a,Union Pacific,,account
+46d2b18f-db30-4a55-be06-90d93a9c59ab,896a8bd4-62a8-4441-bd82-0d2979b0376a,Werner Trucking,,account
+6915625f-d717-4ecb-a789-6186c984ad42,896a8bd4-62a8-4441-bd82-0d2979b0376a,Woodman Insurance,,account
+08ebfbb4-d0eb-4619-a65d-12ca138ba109,61f2c2a2-09c2-4635-801d-78654eb240bb,Kyle Barry,AE,person
+85c853df-3490-4a82-8ac4-866067a0241c,08ebfbb4-d0eb-4619-a65d-12ca138ba109,CHS,,account
+60689312-8b82-46e9-bf90-c05897f37b50,08ebfbb4-d0eb-4619-a65d-12ca138ba109,CWT,,account
+688973d0-60c4-4803-8499-0a3348152a75,08ebfbb4-d0eb-4619-a65d-12ca138ba109,Datasite,,account
+5666345c-af7e-44e7-94fc-141e624c5310,08ebfbb4-d0eb-4619-a65d-12ca138ba109,DigiKey,,account
+7eb38ae1-0bb5-49c4-a64f-6fb9658539a4,08ebfbb4-d0eb-4619-a65d-12ca138ba109,Donaldson,,account
+a3678bf7-cf34-48f9-999c-d485f746b526,08ebfbb4-d0eb-4619-a65d-12ca138ba109,Renaissance Learning,,account
+ae8e58fc-5f5d-4df6-8c0f-e2da7cb95ecc,08ebfbb4-d0eb-4619-a65d-12ca138ba109,Securien,,account
+71941f7b-a2ab-4fd2-bcf0-cafb667ac7a6,08ebfbb4-d0eb-4619-a65d-12ca138ba109,Thrivent,,account
+891235d3-ac42-4103-9002-e7b3432e764f,61f2c2a2-09c2-4635-801d-78654eb240bb,Matt Murphy,AE,person
+c4d123e3-74ec-4a5b-bcc5-10b029b5cc25,891235d3-ac42-4103-9002-e7b3432e764f,Ameritas,,account
+fb9d2a6e-8315-4c22-b8fb-159c98aec4ec,891235d3-ac42-4103-9002-e7b3432e764f,Bass Pro,,account
+1ff61775-36ba-4f0e-b9eb-96a9b3d7ce4e,891235d3-ac42-4103-9002-e7b3432e764f,Bunge,,account
+642dc438-5862-4da4-ab2c-2d07342adae5,891235d3-ac42-4103-9002-e7b3432e764f,Equipmentshare.com,,account
+730041fe-007d-4e21-a4c9-53f1b0361b89,891235d3-ac42-4103-9002-e7b3432e764f,O'Reilly,,account
+f4820c90-bf3b-44b1-853d-765445fda179,891235d3-ac42-4103-9002-e7b3432e764f,RGA,,account
+aff21862-ef84-4124-b226-b5f51eb46356,891235d3-ac42-4103-9002-e7b3432e764f,Shelter Mutual Insurance,,account
+d2459124-c803-4d98-bb68-6f880bd0cc5c,891235d3-ac42-4103-9002-e7b3432e764f,UMB Financial,,account
+d6d146b9-ed12-4fa8-ba43-d42dcc95e070,61f2c2a2-09c2-4635-801d-78654eb240bb,Travis Kerr,AE,person
+e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,Matthew Mergenthaler,DM - Midwest,person
+c594bcd5-8920-473b-a911-10b9b9f6c58d,e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,Ben Sochacki,AE,person
+d125a0e4-8781-41f2-a57f-c1ea822d9d8f,c594bcd5-8920-473b-a911-10b9b9f6c58d,AON,,account
+e9e0358d-5391-41c7-b669-f834b678a05c,c594bcd5-8920-473b-a911-10b9b9f6c58d,Arthur J. Gallagher,,account
+30128e6f-24df-44a9-9d5d-8cf5972918bb,c594bcd5-8920-473b-a911-10b9b9f6c58d,Basis,,account
+39cef13a-0366-4b17-9a87-f7c0918065fb,c594bcd5-8920-473b-a911-10b9b9f6c58d,CTC,,account
+e9791c55-8cc8-46b5-8711-ab10850772c1,c594bcd5-8920-473b-a911-10b9b9f6c58d,Hub International,,account
+51eddc3d-f87a-41c0-b8bd-b6b078e6a55f,c594bcd5-8920-473b-a911-10b9b9f6c58d,Kodaii Capital Management,,account
+4502fc6b-df44-4159-bce2-3bb867b3c89b,e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,Bryan Tews,AE,person
+04c06251-b242-404a-97ba-57676452f393,4502fc6b-df44-4159-bce2-3bb867b3c89b,Cboe,,account
+a2f67858-b1f5-4153-9fbc-e05b28affc0a,4502fc6b-df44-4159-bce2-3bb867b3c89b,CDK Global,,account
+12e12984-b2b1-4af9-bcb2-93501d8573a4,4502fc6b-df44-4159-bce2-3bb867b3c89b,CDW,,account
+b2da0b97-b53e-459d-a2a1-2fbda9d502e1,4502fc6b-df44-4159-bce2-3bb867b3c89b,Paylocity,,account
+a207b298-5f3d-4bee-927e-ffed5997e7b6,4502fc6b-df44-4159-bce2-3bb867b3c89b,Project 44,,account
+0199659e-d14a-4fb2-a943-33652deac263,4502fc6b-df44-4159-bce2-3bb867b3c89b,Relatively,,account
+655ab6ce-76b0-40ad-80ec-26ca7d203e6f,4502fc6b-df44-4159-bce2-3bb867b3c89b,Reyes Holdings,,account
+baeb923c-4cf3-4db1-bf6a-905d7a5093c2,e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,Hart Gellman,AE,person
+3ad05a6b-bb1d-4607-8261-fdec9733e98a,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,Acxiom,,account
+3d1f2d2a-64db-4cef-ab65-e4d831355581,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,Acxiom,,account
+d75eadad-1c6e-4bcb-8729-acd19d8f497c,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,Chesapeake Energy,,account
+30d64981-e340-4f6c-89ae-fa392b27d36c,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,Devon Energy,,account
+2cd1ca03-f8ad-41ec-944d-ab74b5ae0cff,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,Love's Travel Stops,,account
+c39dd590-c3f8-48aa-87a2-a2dafc356f92,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,OGE,,account
+8bfb53a1-8508-4d12-8649-2b2475803bc7,baeb923c-4cf3-4db1-bf6a-905d7a5093c2,One Gas,,account
+bf3ffd82-ad46-467a-bad9-ff438a6fa6be,e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,Mike Biebel,AE,person
+81b7871f-79c8-4d60-ae06-1836c1c86fa8,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Enova,,account
+91c8de01-ff3e-48c2-9127-e57896a93367,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Ensono,,account
+86dfada9-5acf-48ca-bcf5-11ded0956638,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,JLL,,account
+4c4b279b-08ec-4ce7-a04e-a93eb1367859,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Kemper Corporate Services,,account
+33a20bb9-75d2-4b28-ac1c-ab688b96ae67,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Motorola Solutions,,account
+14e4a731-13a4-470b-83f8-aeda3028b63a,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Rush Street Interactive,,account
+c36fcd89-a546-4eba-bcc4-cdc343fc9a92,bf3ffd82-ad46-467a-bad9-ff438a6fa6be,Sears Home Services,,account
+354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,e7d9bace-7e60-45bb-b157-ccfd3c3c0abf,Nathan Kahn,AE,person
+a274ecb3-11bb-4f5c-8ffe-205f8dd3ba25,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Airlines Reporting Corp. / ATPCO,,account
+08aa44a9-f0e5-47db-b4cc-15ef99e023ac,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Alaska Airlines,,account
+c027e136-4185-4ea0-a37b-0617736f8920,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Airlines Reporting Corp. / ATPCO,,account
+5f6621ae-9dd9-484a-ae0b-65b3cd867657,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Alaska Airlines,,account
+3fa1f838-ce14-472a-b61d-4c7ef95a26cb,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Hawaiian Airlines,,account
+e6bcd84b-9f8c-4b9f-abb6-1f11cc107cbd,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,Hyatt,,account
+85d3dd7a-4e90-454c-87b7-d7f6890cc5ac,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,JetBlue Airways,,account
+6cb469ed-f21e-4f90-a9f9-1830f66a9e05,354c39c0-8f9d-4e45-87c7-b0f1efbb0c2b,United,,account
+4a410efe-5600-4845-8531-21e3a0e1d309,8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,Shannon Grace,DM - Ohio Valley,person
+a6f32a74-8430-416e-8c20-3b439e29eabe,4a410efe-5600-4845-8531-21e3a0e1d309,Alex Franco,AE,person
+729dd69b-ab21-4850-98b8-727360bfcf60,a6f32a74-8430-416e-8c20-3b439e29eabe,ANSYS,,account
+f0392740-6338-454c-9fcf-9840b1b4a5ef,a6f32a74-8430-416e-8c20-3b439e29eabe,Dicks Sporting Goods,,account
+1df24968-88af-41c0-81ca-cee16ff4e29d,a6f32a74-8430-416e-8c20-3b439e29eabe,Game Changer Media,,account
+cd6cb29a-6012-45ec-b9e2-3c2d40572d86,a6f32a74-8430-416e-8c20-3b439e29eabe,Sherwin Williams,,account
+36d6aaff-f132-47ae-91e0-308152aea825,a6f32a74-8430-416e-8c20-3b439e29eabe,Vertiv,,account
+f1155887-f095-4814-a823-e4c66c015b50,4a410efe-5600-4845-8531-21e3a0e1d309,Alex Humbert,AE,person
+e69ecd61-1661-4c47-87e6-dedf10d5a445,f1155887-f095-4814-a823-e4c66c015b50,Cross Country Mortgage,,account
+5b476962-1093-41e8-9085-49079646b8fe,f1155887-f095-4814-a823-e4c66c015b50,Eaton,,account
+c97a685d-2410-4080-a984-cad631b47eca,f1155887-f095-4814-a823-e4c66c015b50,Joanne Stores,,account
+d97aa7de-a245-420c-b5c0-79a709d84877,f1155887-f095-4814-a823-e4c66c015b50,PPG,,account
+a1366066-3699-41b7-be1d-6d2955020098,f1155887-f095-4814-a823-e4c66c015b50,Westfield (1848),,account
+10e30173-9744-40c7-97f0-e06956024700,4a410efe-5600-4845-8531-21e3a0e1d309,Eric Borland,AE,person
+4a06e090-2042-49e1-96a3-e61dd21164d7,10e30173-9744-40c7-97f0-e06956024700,Active Campaign,,account
+ada94edc-ae19-4e0d-b8cf-1842593f2d4b,10e30173-9744-40c7-97f0-e06956024700,Active Campaign,,account
+0fa163c4-0c9f-4ce9-bd28-b7ae15b7a4f8,10e30173-9744-40c7-97f0-e06956024700,CNO,,account
+50445530-b898-4c3d-b5f4-a63ab3978bba,10e30173-9744-40c7-97f0-e06956024700,Fruit of the Loom,,account
+df2e6cfb-2247-48f2-a698-c77a78ef02a9,10e30173-9744-40c7-97f0-e06956024700,OneMain,,account
+6c732ee1-13bf-4c32-ab29-baa2449e4ebe,10e30173-9744-40c7-97f0-e06956024700,Open Lane,,account
+f95d1901-ae88-49ce-887b-354003e533d8,10e30173-9744-40c7-97f0-e06956024700,Sallie Mae,,account
+4ad0bdf7-fb8f-480b-b580-85cfa1a65bb8,10e30173-9744-40c7-97f0-e06956024700,USIC,,account
+e01b7f74-5a62-481e-a7b8-e410261377ad,4a410efe-5600-4845-8531-21e3a0e1d309,Laura Krisher,AE,person
+c2a3aa03-1d51-419c-8c49-cf8861ba64a9,e01b7f74-5a62-481e-a7b8-e410261377ad,Cincinnati Insurance Co.,,account
+8c33b40e-4b72-49ee-b4e6-34a3fb0f3504,e01b7f74-5a62-481e-a7b8-e410261377ad,EW Scripps,,account
+341f2c8e-a170-481b-ae57-37ae1ba0cd3a,e01b7f74-5a62-481e-a7b8-e410261377ad,Fifth Third Bank,,account
+1ab7a9c0-6e2e-4b32-8b60-a5508ff76c48,e01b7f74-5a62-481e-a7b8-e410261377ad,Great American Insurance,,account
+0ac2c852-a2b5-4dd1-a15c-78439b9942c4,e01b7f74-5a62-481e-a7b8-e410261377ad,Huntington National Bank,,account
+be4ae932-7b28-4b6b-812a-dec675b8c48a,e01b7f74-5a62-481e-a7b8-e410261377ad,Paycor,,account
+ce186de2-ef75-4851-b4f3-e1bcb8a5af69,4a410efe-5600-4845-8531-21e3a0e1d309,Randy Rodd,AE,person
+6131ffd7-b53a-47f7-b0e8-d324c2f5cd2e,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,AAM,,account
+6c4f873a-2e14-456d-8e9b-94a719e145e1,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,AAM,,account
+ea130dfd-5124-4c30-b020-a63a487a704b,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Borg Warner,,account
+e04c427f-3f05-40ab-8eb7-5388464c2131,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Flagstar Bank,,account
+1d06cc11-d718-4cae-8954-16ed9f5f18ad,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Lay Z Boy,,account
+ba95e44d-0924-4c39-81ef-3852a134f8fe,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Lineage Logistics,,account
+977a5158-eb16-4f16-bd63-e2619e68f915,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Meijer/Fresh Thyme,,account
+288fcdea-0be1-408f-b433-43921b712236,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,North American Bancard,,account
+deca64c1-cb14-4a40-9df1-d3b5559264a3,ce186de2-ef75-4851-b4f3-e1bcb8a5af69,Spartan Nash,,account
+e65b4e67-af29-4c9d-91ad-03df395dfca4,4a410efe-5600-4845-8531-21e3a0e1d309,Shanna Brokaw,AE,person
+02bb319b-0400-4cb4-bdb6-ff737202a094,e65b4e67-af29-4c9d-91ad-03df395dfca4,Abercombie & Fitch,,account
+5ddb6a23-d6a5-46e9-8157-b72b6ab23100,e65b4e67-af29-4c9d-91ad-03df395dfca4,Abercombie & Fitch,,account
+4f7e05f3-9cb3-414c-8b21-81ebca81564f,e65b4e67-af29-4c9d-91ad-03df395dfca4,Big Lots,,account
+9842e11f-62f1-434e-8746-07205db7c3dc,e65b4e67-af29-4c9d-91ad-03df395dfca4,IGS Energy,,account
+22e95452-b207-4bff-803d-f764f5c9845a,e65b4e67-af29-4c9d-91ad-03df395dfca4,Lexis Nexis,,account
+202cac34-f504-47bb-bfc2-1b8bb35beab5,e65b4e67-af29-4c9d-91ad-03df395dfca4,Lon Operations (Bread),,account
+876db330-d0de-40ac-87e0-949aefa3d7ea,e65b4e67-af29-4c9d-91ad-03df395dfca4,Netjets,,account
+dd8b293e-c321-413a-8a14-ec9bb1ec5fdd,e65b4e67-af29-4c9d-91ad-03df395dfca4,OCLC,,account
+5c27f1e8-3540-42e3-a4ed-e58d49c1caef,e65b4e67-af29-4c9d-91ad-03df395dfca4,VisaJet LTD.,,account
+793c6672-6987-40ea-a95c-28e00bce1f75,8e60b3a8-1a89-4f2d-85ee-42a4fb61f383,Mike Brandt,DM - HCLS,person
+24f302c0-0b01-4c24-b88b-b1f1a6efe1df,793c6672-6987-40ea-a95c-28e00bce1f75,Chris Broander,AE,person
+594470a4-1b54-4338-bfc6-765cb3896f7d,793c6672-6987-40ea-a95c-28e00bce1f75,Chrissy Brogan,AE,person
+d2f5414b-16b1-49fc-9d11-d02ae9acb439,793c6672-6987-40ea-a95c-28e00bce1f75,Julie Perulli,AE,person
+7ec44050-8055-4364-9cdb-162228178bed,793c6672-6987-40ea-a95c-28e00bce1f75,Mike Green,AE,person
+04b52405-a292-4c15-bcc8-7dc673e203e0,793c6672-6987-40ea-a95c-28e00bce1f75,Paul Boal,AE,person
+26e24ebb-194a-4676-91c2-9de823d7ea11,44123d96-7e28-425c-841d-9e1c86c01396,Rose Peterman,PSM - Enterprise Central,person
+42b17528-1929-4afc-b4a9-f65eb643d2e1,44123d96-7e28-425c-841d-9e1c86c01396,Adam Sadowski,RVP - Enterprise West,person
+32bf907b-5f87-4ce3-95d5-f2f02c0450e1,42b17528-1929-4afc-b4a9-f65eb643d2e1,Bill Eckholm,DM,person
+433e36cd-5784-4d4e-b72d-23b1a55080eb,42b17528-1929-4afc-b4a9-f65eb643d2e1,Eduardo Payan,DM,person
+28d39a66-ae01-466d-8dd8-779c63ff6b3f,42b17528-1929-4afc-b4a9-f65eb643d2e1,JD Olsen,DM,person
+a7bf18d5-b24d-41d0-ad7c-c12217b88ab3,42b17528-1929-4afc-b4a9-f65eb643d2e1,Nicolette Mullenix,DM,person
+1d99a6d3-b4e9-4087-bc0f-7f959f6a15c3,42b17528-1929-4afc-b4a9-f65eb643d2e1,Allison Be,DM,person
+6a69fbf2-924d-44db-b0df-59ba10316e93,44123d96-7e28-425c-841d-9e1c86c01396,Adrian Tarquino,RVP - Enterprise Southeast,person
+a78fe520-fe9e-483c-852d-4fc2ba3916ec,6a69fbf2-924d-44db-b0df-59ba10316e93,Christian Yarbrough,DM,person
+0585d1b6-58e6-47a9-bc14-3552fad0523a,6a69fbf2-924d-44db-b0df-59ba10316e93,Ian Breen,DM,person
+5d7e21ea-2cfa-4f1b-b0fd-2ee18b0e484c,6a69fbf2-924d-44db-b0df-59ba10316e93,Robert Mccabe,DM,person
+60597803-49b3-4910-a845-54e0d28ca566,6a69fbf2-924d-44db-b0df-59ba10316e93,Stuart Ritchie,DM,person
+f0da1002-de18-45ac-976b-a0ee25042f49,6a69fbf2-924d-44db-b0df-59ba10316e93,Tony Segoviano,DM,person
+561b3242-fc8f-4dde-bc47-50c6ecb39a2f,44123d96-7e28-425c-841d-9e1c86c01396,Dean Kuvelis,RVP - Enterprise Sales West,person
+f23d6a74-912e-4680-b265-9793f705ddf9,561b3242-fc8f-4dde-bc47-50c6ecb39a2f,Alyssa George,DM,person
+1465008f-f9e5-4487-b65d-fe8641fe679a,561b3242-fc8f-4dde-bc47-50c6ecb39a2f,Erik Schneider,DM,person
+09abd048-d11e-48a5-96e2-15290352f8ac,561b3242-fc8f-4dde-bc47-50c6ecb39a2f,Erik Schneider,DM,person
+56b86744-e44d-484e-b10a-5b936348fafd,561b3242-fc8f-4dde-bc47-50c6ecb39a2f,Raymond Navarro,DM,person
+18cfbfbe-e437-4ce6-9b71-03aa0c816eb1,44123d96-7e28-425c-841d-9e1c86c01396,Lisa Yu,RVP - Commercial US,person
+4d1dc9b3-9111-4008-b3ae-94700a17a859,44123d96-7e28-425c-841d-9e1c86c01396,Matt Moscoffian,RVP - Enterprise East,person
+fbdcdb35-5697-48d7-b4dc-55571ea30a5b,4d1dc9b3-9111-4008-b3ae-94700a17a859,Bill McKenna,DM,person
+ccf9d134-19c1-4a5d-bcd6-037d2239b11f,4d1dc9b3-9111-4008-b3ae-94700a17a859,Bryan Abou-Rjaly,DM,person
+59c1c588-aece-43b8-8d4b-888359f0e467,4d1dc9b3-9111-4008-b3ae-94700a17a859,Cory Stratford,DM,person
+ae706290-1272-4a25-9463-f896c26e2405,4d1dc9b3-9111-4008-b3ae-94700a17a859,Dan Stefanini,DM,person
+9d5b82b9-51f0-41cc-9830-3b6ea98a68cb,4d1dc9b3-9111-4008-b3ae-94700a17a859,Elizabeth Duff,DM,person
+11c1bf08-465e-42fe-b528-fa119e3f3219,4d1dc9b3-9111-4008-b3ae-94700a17a859,TJ Napoli,DM,person
+1d8bc0c4-5151-446c-b675-3b371d33582d,44123d96-7e28-425c-841d-9e1c86c01396,Shannon Katschilon,RVP - Enterprise Canada,person
+1790820c-4670-4d2c-b6ff-610328f7dda7,44123d96-7e28-425c-841d-9e1c86c01396,Brian Daniels,RVP - US Central Enterprise Acquisition,person
+94efc7e9-77ce-405f-bd7b-785ebe86e62e,1790820c-4670-4d2c-b6ff-610328f7dda7,Brian Kaplan,DM - North Central,person
+a2a521df-0f02-421f-bc65-610dfe98d1d1,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Adam Dill,AE,person
+a2f79633-3c67-41d7-9282-599ff954595f,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Aehab Awadallah,AE,person
+3a8447fc-eab7-49ff-8223-90fa185dd4fe,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Albert Filman,AE,person
+2fee9185-3deb-4d50-b3c9-05fb0b7b3784,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Derrick Bohn,AE,person
+21b8f3f8-89f8-4d79-98d8-889a12ffc981,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Jim Kempski,AE,person
+d00b3224-025c-44b1-b195-e29c753a5305,94efc7e9-77ce-405f-bd7b-785ebe86e62e,Steve Hawes,AE,person
+8a3ff972-e5ea-435c-a66c-7661df912d24,1790820c-4670-4d2c-b6ff-610328f7dda7,Mick Lesko,DM - South Central,person
+34ef46be-008d-40e1-8a67-7c6f9d3aa8fd,8a3ff972-e5ea-435c-a66c-7661df912d24,Brandon Lindeman,AE,person
+40a9be98-afd0-48f3-8ed1-2b41ca518b48,8a3ff972-e5ea-435c-a66c-7661df912d24,Collin Batson,AE,person
+1712f4fa-f589-41f7-9b56-5e0d79a645ec,8a3ff972-e5ea-435c-a66c-7661df912d24,Jon Gross,AE,person
+988b2f18-83f6-403d-ab58-c3da04075bf6,8a3ff972-e5ea-435c-a66c-7661df912d24,Kevin Urban,AE,person
+bd926a3b-5746-47d5-afc6-d4b1b35ccdcc,8a3ff972-e5ea-435c-a66c-7661df912d24,Nick Reker,AE,person
+787e975e-5fd3-443d-97f2-2db92fc41857,8a3ff972-e5ea-435c-a66c-7661df912d24,Parker Schramm,AE,person
+c60d28e9-338b-45b8-99e0-64dd6a95b656,1790820c-4670-4d2c-b6ff-610328f7dda7,Chris Frank,DM - Enterprise Sales - TOLA-K,person
+b4378ead-a6a9-4b4c-96e4-3b4c39aca6bf,c60d28e9-338b-45b8-99e0-64dd6a95b656,Luke Knott,AE,person
+82aebfd9-9d83-4829-894e-34d14212a3e4,c60d28e9-338b-45b8-99e0-64dd6a95b656,Leigh Kirk,AE,person
+59bb115a-ed13-4c67-bd6a-4bbf2d123dbb,c60d28e9-338b-45b8-99e0-64dd6a95b656,Doug Balsley,AE,person
+d86b8c20-be05-451c-96b8-ee628d61e619,c60d28e9-338b-45b8-99e0-64dd6a95b656,Kurt Swiger,AE,person
+d95eeb4f-04f5-4783-b49f-02970b7b6709,c60d28e9-338b-45b8-99e0-64dd6a95b656,Matt Hammond,AE,person
+8039e682-d10a-4962-9e8d-b6477998de60,c60d28e9-338b-45b8-99e0-64dd6a95b656,David Marlow,AE,person
+78a77daa-309f-4f0e-9a61-54261a45d890,1790820c-4670-4d2c-b6ff-610328f7dda7,Benjamin Short,DM,person
+7e795c48-09b6-4573-8075-004ad6129bfa,1790820c-4670-4d2c-b6ff-610328f7dda7,Courtney Bencze,DM,person
+a46c7cc5-fefc-4a58-9ac2-d5dc1f5a1e99,1790820c-4670-4d2c-b6ff-610328f7dda7,Joseph Alvarez,DM,person
+37d74d2c-89c5-45df-b143-23b470b6ca63,1790820c-4670-4d2c-b6ff-610328f7dda7,Scott Sheridan,DM,person
+bd0e2b8f-6942-466b-a9f8-e958ebd70d5f,1790820c-4670-4d2c-b6ff-610328f7dda7,Stephen Kalkbrenner,DM,person
+2622e91e-d097-406f-b638-d9e556c7f629,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Keegan Riley,GVP - Enterprise Sales,person
+aa51ffcb-d86a-4c41-bd4d-e93dd9e66813,2622e91e-d097-406f-b638-d9e556c7f629,Suzanne Olson, RVP - Majors Acquisition, person
+783137c2-c05c-4192-a3d1-ebb99ff11357,2622e91e-d097-406f-b638-d9e556c7f629,Suzanne Olson, RVP - Majors Acquisition, person
+f1076c6a-4dc8-4ed0-8d99-d14c019e5fa0,2622e91e-d097-406f-b638-d9e556c7f629,Suzanne Olson, RVP - Majors Acquisition, person
+ccd53a3b-73b1-4f15-bdd5-63cfc447f1bc,2622e91e-d097-406f-b638-d9e556c7f629,Suzanne Olson, RVP - Majors Acquisition, person
+ba1c56de-c58b-4b86-855e-da4425a88cb2,2622e91e-d097-406f-b638-d9e556c7f629,Tony Lisotta,PSM - Acquisition,person
+de48441e-6028-4238-aaa0-c86950ba59ba,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Jamie Patel,VP - SEs,person
+0af7dc53-c61c-40cd-ac11-9a6af38455bb,de48441e-6028-4238-aaa0-c86950ba59ba,Brian Bent,SED,person
+63966128-949d-4a51-ba2b-0e36eb630996,0af7dc53-c61c-40cd-ac11-9a6af38455bb,Josh Chacona,SEM,person
+3d295fa4-66a8-423c-978b-dba202db5865,63966128-949d-4a51-ba2b-0e36eb630996,Aaron Moore,SE,person
+20c9cab4-ca6f-43da-af0e-13e6654b2d48,63966128-949d-4a51-ba2b-0e36eb630996,Aran Sakzenian,SE,person
+c19e70ad-a5e9-403b-aa70-e5ac1a48d176,63966128-949d-4a51-ba2b-0e36eb630996,Chris Honcoop,SE,person
+03f86b0b-3a8f-4bdd-a956-00fab87c9f8b,63966128-949d-4a51-ba2b-0e36eb630996,Ginu Kuncheria,SE,person
+be23b8ad-f275-49bb-8d4b-4d2513632917,63966128-949d-4a51-ba2b-0e36eb630996,Jeremy Griffith,SE,person
+eb9ed4db-c852-4a03-957c-67d34e284255,63966128-949d-4a51-ba2b-0e36eb630996,Scott Hruby,SE,person
+410165df-5b56-4930-a1fe-a3b4bd5c66c7,63966128-949d-4a51-ba2b-0e36eb630996,Scott McGougan,SE,person
+a471c53e-b927-41c2-9241-94d1b6dbe57b,63966128-949d-4a51-ba2b-0e36eb630996,Shady Elswaisy,SE,person
+60ef97f2-ebea-4193-b658-cd9cb862c1dd,0af7dc53-c61c-40cd-ac11-9a6af38455bb,Josh Weyburne,SEM,person
+447adf3f-daae-4bf7-9996-d5ec65e07de7,60ef97f2-ebea-4193-b658-cd9cb862c1dd,New rep TBD,,person
+82bce3e6-9bdb-4567-8c66-189b7dce4eb4,0d2e85fe-604a-4aec-835d-5a4fedd526a7,Jason Mills,VP,person
+b2d747f5-fb7a-4e26-a951-4726c90e11b2,82bce3e6-9bdb-4567-8c66-189b7dce4eb4,Jason Hinds,SED,person
+7b3e68d0-cb61-4066-8d4d-93dd1c5ff53d,82bce3e6-9bdb-4567-8c66-189b7dce4eb4,Prasuj Loganathan,SED,person
+94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,7b3e68d0-cb61-4066-8d4d-93dd1c5ff53d,Shirley Reagor,SEM,person
+dbd7b316-9ed5-4791-99ef-cfe6e536cd49,94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,Adam Gaulding,SE,person
+e00f34fb-0bfc-494a-99d6-5f65ceecf603,94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,Charles Mae,SE,person
+d4a347aa-5dc7-4cb3-be13-35948a9116ab,94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,Corey Balko,SE,person
+db4aca2e-295a-45cb-97c6-c8a388f7e037,94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,Jonathan Martindale,SE,person
+5cf6bf08-3dce-40fb-b277-3d7f17403028,94b43c6c-8f40-4fca-bb56-9a5f5a9d12b6,Rick Frausto,SE,person
