@@ -5,19 +5,6 @@
     "type": "person",
     "children": [
       {
-        "name": "Benoit Dageville II",
-        "title": "Co-founder - President of Products",
-        "type": "person",
-        "children": [
-          {
-            "name": "Benoit Dageville III",
-            "title": "Co-founder - President of Products",
-            "type": "account",
-            "children": []
-          }
-        ]
-      },
-      {
         "name": "Benoit Dageville",
         "title": "Co-founder - President of Products",
         "type": "person",
