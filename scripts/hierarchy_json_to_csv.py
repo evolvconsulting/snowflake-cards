@@ -47,6 +47,6 @@ def json_to_csv_hierarchy(json_file_path, csv_file_path):
 
 # Example usage
 if __name__ == "__main__":
-    json_file_path = "../public/hierarchy.json"
-    csv_file_path = "../public/hierarchy.csv"
+    json_file_path = "public/hierarchy.json"
+    csv_file_path = "public/hierarchy.csv"
     json_to_csv_hierarchy(json_file_path, csv_file_path)
