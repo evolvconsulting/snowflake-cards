@@ -23,7 +23,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run hierarchy_json_to_csv.py
-        run: python scripts/hierarchy_json_to_csv.py
+        run: python /scripts/hierarchy_json_to_csv.py
 
       - name: Show changes to hierarchy.csv (if any)
         run: |
